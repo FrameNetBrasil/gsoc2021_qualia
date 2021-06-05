@@ -1,15 +1,13 @@
 # GSOC 2021 Schedule
 
-## Week 1
-(Tentative) Try discovering TQRs with KG-BERT using just the FrameNet-BR data
+## Weeks 1-2
+Familiarize with the FrameNet data. Come up with formats for downstream tasks, such as disambiguation and link prediction. Explore the ways
+to extract relevant BabelNet data.
 
-## Week 2
-(Tentative) Try linking FrameNet-BR LUs to BabelNet using context in examples
+## Weeks 3-4
+BabelNet to FrameNet-BR mapping.
 
-## Week 3
-(Tentative) Finalize the approach to TQR extraction
-
-## Weeks 3 to 10
+## Weeks 4 to 10
 TODO
 
 ## Week 11
