@@ -9,11 +9,17 @@
 ## Week 3-4
 Extract all the data for LUs from BabelNet
 
-## Weeks 4-5
+## Weeks 4-6
 Map FN data to BN
 
-## Weeks 5 to 10
-TODO
+## Weeks 7
+Analyze the results of mapping
+
+## Week 8-9
+Implement web annotation tool
+
+## Week 10
+Test and finalize web annotation tool
 
 ## Week 11
 Reserve in case of emergencies
