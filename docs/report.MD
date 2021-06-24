@@ -1,7 +1,8 @@
 ## Weeks 1-2
 
+- Set up a local version of the FrameNet-BR DB
 - Explored the structure of the FrameNet-BR DB
-- Extracted the LUs for the alignment
+- Extracted the LUs for the alignment (just in English so far)
 
 ## Week 3
 
