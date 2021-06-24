@@ -9,3 +9,5 @@
 - Explored the BabelNet API
 - Tested some queries
 - Found out that it doesn't seem to be possible to extract sense definitions using the HTTP interface, meanwhile SPARQL endpoint doesn't appear to be working at all
+- Obtained local indices
+- Tested queries using both local indices and the remote web service using Scala
