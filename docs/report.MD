@@ -20,7 +20,7 @@
   -  added reading/writing to/from `csv` format
   -  added edge extraction
   -  created a repository for this tool
-  -  extracted nouns in English to test the algorithm
+  -  extracted BN synsets for nouns in English to test the algorithm
   -  TODO replace language/POS hard code
 
 - Experimented on ranking sense candidates based on cosine similarity between sense definitions
