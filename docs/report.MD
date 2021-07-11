@@ -28,3 +28,20 @@
   - Issue: based on several examples, the sense with the most similar defition is not necessarily the most obvious candidate (although, comparing the definitions "manually" (i.e. by reading them) doesn't make it obvious either in these cases)
   - Idea: keep cosine similarity as a feature and come up with a more robust mapping approach (perhaps, taking outgoing edges into account?)
   -  TODO formalize the experiments as a Python repository
+
+## Week 5
+
+- Extracted BN relations using [LaBSE](https://github.com/UKPLab/sentence-transformers) sentence embeddings:
+
+  - Generated similarity score using embeddings
+  - Ranked candidates in descending order
+  - Filtered out candidates that aren't substrings of queried LUs
+  - Took the first most similar candidate for each LU
+  - Generated LU -> BN sense map
+  - Extracted relations between mappable LUs (i.e. relations where both BN senses have a corresponding LU)
+  - Filtered out duplicates, added defitions and words themselves for further analysis
+  - See the [csv](/relations.csv)
+
+- It's only English nouns so far
+- I haven't yet tried multiple candidates for each LU
+- Further discussion on whether the extracted relations resemble the desired result is due
