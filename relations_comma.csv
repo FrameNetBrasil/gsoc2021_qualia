@@ -1,0 +1,1019 @@
+lu1,word_1,senseDescription_1,relation,lu2,word_2,senseDescription_2
+25921,consequence,result of,hypernym,25365,significance,characterization of whether an event occurs randomly
+26100,contact,the state of having no separation (between two or more surfaces).,hypernym,24734,conjunction,an instance of two or more events occurring at the same point in time or space.
+12577,copy,a thing made to be similar or identical to another. ,hyponym,12581,photocopy,a photographic copy of something produced by a process involving the action of light on a specially prepared surface. 
+12577,copy,a thing made to be similar or identical to another. ,hyponym,22010,modification, the action of modifying.
+12581,photocopy,a photographic copy of something produced by a process involving the action of light on a specially prepared surface. ,hypernym,12577,copy,a thing made to be similar or identical to another. 
+12720,stroke, move one' s hand with gentle pressure over (a surface).,hyponym,12728,caress,a gentle or loving touch.
+20659,drag,an act of inhaling smoke from a cigarette. ,hyponym,20660,toke,"a pull on a cigarette or pipe, typically one containing cannabis. "
+12728,caress,a gentle or loving touch.,hypernym,12720,stroke, move one' s hand with gentle pressure over (a surface).
+21586,conduct,the manner in which a person behaves,hypernym,17687,activity,an action taken in pursuit of an objective
+12758,position,a way in which someone or something is placed or arranged.,hypernym,17442,point,a particular spot or location. 
+12762,awareness,awareness is a derivative of aware,hypernym,12785,consciousness,one' s awareness or perception of something.
+12765,comprehension,the action or capability of understanding.,hypernym,23108,involvement,the state of participating in an event with multiple participants
+12779,suspicion,a feeling that something is possible or probable or that someone is guilty of a crime or offence.,hypernym,23710,belief,"an acceptance that something exists or is true, especially one without proof."
+21816,agreement,"a contract by which one party conveys land, property, services, etc. to another for a specified time. ",hypernym,13409,statement,a definite or clear expression of something in speech or writing 
+21816,agreement,"a contract by which one party conveys land, property, services, etc. to another for a specified time. ",hyponym,23624,deal,an agreement entered into by two or more parties for their mutual benefit.
+21816,agreement,"a contract by which one party conveys land, property, services, etc. to another for a specified time. ",hyponym,17592,settlement,a place where people establish a community.
+12785,consciousness,one' s awareness or perception of something.,hyponym,12762,awareness,awareness is a derivative of aware
+12824,interpretation,explanation; the act or result of interpreting,hypernym,20994,performance,"an act of performing a play, concert, or other form of entertainment."
+16249,class,a category of things having some property in common and different from others by type or quality,hyponym,26182,sex,an act of physical intimacy that can lead to orgasm.
+12849,contemplation,the action of contemplating.,hypernym,14540,stare,a fixed look at someone or something with the eyes wide open
+12867,conclusion,a judgement or decision reached by reasoning,hypernym,25097,judgment,a decision ruled upon by a legal authority
+22053,argument,a heated exchange of diverging or opposite views.,hypernym,12913,evidence, information indicating whether a belief or proposition is true or valid. 
+22053,argument,a heated exchange of diverging or opposite views.,hyponym,12918,proof,evidence establishing a fact or the truth of a statement.
+22053,argument,a heated exchange of diverging or opposite views.,hyponym,21609,case,a situation which is under investigation by legal authorities to determine if a crime has been comitted and a prosecution is appropriate. 
+22053,argument,a heated exchange of diverging or opposite views.,hyponym,16497,pro,a professional
+12913,evidence, information indicating whether a belief or proposition is true or valid. ,hyponym,22053,argument,a heated exchange of diverging or opposite views.
+12913,evidence, information indicating whether a belief or proposition is true or valid. ,hypernym,21402,indication,a sign or symptom
+12918,proof,evidence establishing a fact or the truth of a statement.,hypernym,22053,argument,a heated exchange of diverging or opposite views.
+25586,demonstration,public display and expression of support of or opposition to an issue.,hyponym,20994,performance,"an act of performing a play, concert, or other form of entertainment."
+12964,appreciation,"Perceptive recognition of value, significance or qualities.",hyponym,20850,sense,a feeling that can be vague or explicit. 
+22415,rap,"the sound of a quick, sharp knock or blow",hypernym,13008,reproach,a feeling of disapproval or disappointment. 
+12969,contempt,the feeling that a person or a thing is worthless or beneath consideration,hyponym,16981,sneer,"a contemptuous or mocking smile, remark, or tone (in this frame, only the facial expression.)"
+12972,damnation,condemnation to eternal punishment in hell,hypernym,17930,denouncement,the public declaration of something or someone as wrong.
+12975,disapproval,the act or state of disapproving,hyponym,17936,disparagement,the action of representing something as low quality.
+12975,disapproval,the act or state of disapproving,antonym,21727,approval, the action of approving of something.
+23692,esteem,level of respect ,hyponym,24623,stature,importance or reputation gained by ability or achievement.
+12984,fault,an unattractive or unsatisfactory feature,hyponym,20762,blister,"a small bubble on the skin filled with serum and typically caused by friction or burning or a similar swelling, filled with air or fluid, on a surface. "
+12991,stigma,"a mark of disgrace associated with a particular circumstance, quality, or person.",hypernym,20757,blemish,a small mark or flaw which spoils the appearance of something. 
+12993,stricture, a sternly critical remark,hypernym,17923,criticism,the expression of disapproval of someone or something based on perceived faults or mistakes.
+13008,reproach,a feeling of disapproval or disappointment. ,hyponym,22415,rap,"the sound of a quick, sharp knock or blow"
+20850,sense,a feeling that can be vague or explicit. ,hypernym,12964,appreciation,"Perceptive recognition of value, significance or qualities."
+13081,analysis,a detailed examination of the elements or structure of something.,hypernym,21606,investigation,a systematic search or inquiry into an incident
+21606,investigation,a systematic search or inquiry into an incident,hyponym,23356,examination,a detailed inspection or investigation.
+21606,investigation,a systematic search or inquiry into an incident,hypernym,24667,work,activity involving mental or physical effort done in order to achieve a result.
+21606,investigation,a systematic search or inquiry into an incident,hyponym,13081,analysis,a detailed examination of the elements or structure of something.
+21606,investigation,a systematic search or inquiry into an incident,hyponym,21601,inquiry,an official investigation.
+23356,examination,a detailed inspection or investigation.,hyponym,13112,once-over,"a rapid inspection, search, or piece of work."
+23356,examination,a detailed inspection or investigation.,hypernym,21606,investigation,a systematic search or inquiry into an incident
+13090,search,an act of searching. ,hypernym,17687,activity,an action taken in pursuit of an objective
+13112,once-over,"a rapid inspection, search, or piece of work.",hypernym,23356,examination,a detailed inspection or investigation.
+13120,monitoring,the act of observing and checking over a period of time.,hypernym,14528,observation,the action or process of closely observing or monitoring
+13161,oath,"a solemn promise, often invoking a divine witness, as to the truth of something or as a commitment to future action",hypernym,13174,commitment,a pledge or undertaking.
+13162,pledge,a solemn promise or undertaking,hypernym,16155,member,a man' s penis
+24447,threat,the possibility of trouble or danger.,hypernym,25956,warning,a message that informs someone of a potential danger.
+13174,commitment,a pledge or undertaking.,hyponym,13161,oath,"a solemn promise, often invoking a divine witness, as to the truth of something or as a commitment to future action"
+24163,commitment,the act of sending to a psychiatric hospital,hypernym,18360,confinement,the action of forcing or keeping withing a contained area.
+13177,communication,the action of communicating,hyponym,25641,publication,making a work (generally a written text) publicly available.
+13177,communication,the action of communicating,hyponym,21402,indication,a sign or symptom
+23238,exchange,an act or the action of exchanging.,hypernym,17147,transaction,an instance of buying or selling.
+13190,discussant,somebody who participates in a formal discussion,hypernym,23105,participant,somebody who participates in an event
+13191,negotiation,discussion with others to try to reach an agreement or compromise,hypernym,17687,activity,an action taken in pursuit of an objective
+21601,inquiry,an official investigation.,hypernym,21606,investigation,a systematic search or inquiry into an incident
+25836,order,a request for something to be served,hyponym,26241,summons,an official call or citation to appear before a court
+25141,order,the arrangement or disposition of people or things according to a particular sequence or method.,hyponym,25137,succession,sequence
+25857,order,a state of non-confusion; the opposite of chaos,hyponym,22203,quiet,"the state of being silent. Often occurs with verbs (keeping, remaining, staying)."
+25857,order,a state of non-confusion; the opposite of chaos,antonym,25856,disorder,a state of chaos or confusion
+25857,order,a state of non-confusion; the opposite of chaos,hypernym,25529,state,general descriptive term of a phase of matter. 
+23382,response,a reaction,hyponym,23384,reaction,an instance of reacting to or against something.
+23384,reaction,an instance of reacting to or against something.,hypernym,23382,response,a reaction
+24167,admission,registration and entry (into an institution).,hypernym,13945,entrance,an act of entering
+13363,announcement,the act of announcing,hypernym,13409,statement,a definite or clear expression of something in speech or writing 
+13365,assertion,the act of asserting,hyponym,13378,contention,an assertion.
+13365,assertion,the act of asserting,hyponym,26222,affirmation,the act or instance of affirming (declaring to be true)
+13365,assertion,the act of asserting,hyponym,21801,claim,"something claimed as property, particularly a piece of land."
+13365,assertion,the act of asserting,hypernym,13379,declaration,a formal or explicit statement or announcement
+13365,assertion,the act of asserting,hyponym,17912,accusation,a charge or claim that someone has done something illegal or wrong.
+13365,assertion,the act of asserting,hyponym,21825,testimony," a formal statement, especially one given in a court of law"
+21801,claim,"something claimed as property, particularly a piece of land.",hypernym,13365,assertion,the act of asserting
+13378,contention,an assertion.,hyponym,23876,submission,the act of presenting (a proposal or application) for consideration or judgement.
+13378,contention,an assertion.,hypernym,13365,assertion,the act of asserting
+13379,declaration,a formal or explicit statement or announcement,hypernym,13409,statement,a definite or clear expression of something in speech or writing 
+13379,declaration,a formal or explicit statement or announcement,hyponym,19311,confession,a formal admission of one' s sins privately to a priest. 
+13379,declaration,a formal or explicit statement or announcement,hyponym,13365,assertion,the act of asserting
+13395,proposal,a plan or suggestion,hyponym,25806,hypothesis,a conjecture which explains a phenomenon and can be tested by experimentation
+13409,statement,a definite or clear expression of something in speech or writing ,hyponym,21816,agreement,"a contract by which one party conveys land, property, services, etc. to another for a specified time. "
+13409,statement,a definite or clear expression of something in speech or writing ,hyponym,23345,word,"a single distinct meaningful element of speech or writing, used to form sentences with others"
+13409,statement,a definite or clear expression of something in speech or writing ,hyponym,13363,announcement,the act of announcing
+13409,statement,a definite or clear expression of something in speech or writing ,hyponym,13379,declaration,a formal or explicit statement or announcement
+13409,statement,a definite or clear expression of something in speech or writing ,hyponym,22214,assurance,a positive declaration intended to give confidence
+26222,affirmation,the act or instance of affirming (declaring to be true),hypernym,13365,assertion,the act of asserting
+20252,vexation,a cause of irritation and trouble,hyponym,13561,displeasure,a feeling of annoyance or dissatisfaction.
+20252,vexation,a cause of irritation and trouble,hyponym,20250,aggravation,a cause of irritation or provocation
+13550,perplexity,the state of being puzzled or perplexed.,hyponym,19202,mystery,"a novel, play, or film dealing with a puzzling crime. "
+13561,displeasure,a feeling of annoyance or dissatisfaction.,hypernym,20252,vexation,a cause of irritation and trouble
+20250,aggravation,a cause of irritation or provocation,hypernym,20252,vexation,a cause of irritation and trouble
+13579,sympathy,feelings of pity and sorrow for someone else' s misfortune,hypernym,15728,kinship,"The relations between anthropomorphic entities which constitute a classification as ""kinship"""
+24125,concern,a matter of interest or importance.,hyponym,25487,part,"an object that serves a distinct function in a complex artifact, especially of machines."
+24125,concern,a matter of interest or importance.,hyponym,15586,affair,a love affair
+24125,concern,a matter of interest or importance.,hypernym,27349,interest,concern for the outcome of (a state of affairs or event)
+27349,interest,concern for the outcome of (a state of affairs or event),hyponym,24125,concern,a matter of interest or importance.
+15586,affair,a love affair,hypernym,24125,concern,a matter of interest or importance.
+25028,surprise,the occurence of something unexpected,hyponym,25027,shock,Fn: the state of surprise
+19289,trouble,difficulty or problems. ,hyponym,21292,onslaught, a fierce or destructive attack.
+19289,trouble,difficulty or problems. ,hyponym,19287,misfortune,an unfortunate event. 
+25002,enjoyment,Fn: pleasure,hypernym,17687,activity,an action taken in pursuit of an objective
+13832,pity,the feeling of sorrow and compassion caused by the sufferings of others,hypernym,19287,misfortune,an unfortunate event. 
+13857,pleasure,feeling of happy satisfaction and enjoyment.,hypernym,17687,activity,an action taken in pursuit of an objective
+13860,antipathy,a deep-seated feeling of aversion,hypernym,21651,object,a goal or purpose
+13917,sensitivity,the quality or condition of being sensitive to slight changes or influences,hyponym,16126,antenna,"a long, thin sensory appendage found in pairs on the heads of insects and some other arthropods."
+13917,sensitivity,the quality or condition of being sensitive to slight changes or influences,hypernym,22695,ability,the capacity to do something.
+23975,susceptibility,a structural vulnerability; often impossible to defend against,hyponym,22697,capability,power or ability to do something
+13920,death,the action or fact of dying or being killed.,hypernym,25529,state,general descriptive term of a phase of matter. 
+17117,terminal,a departure and arrival building for passengers at an airport.,hyponym,16095,heel,the back part of the foot below the ankle.
+17117,terminal,a departure and arrival building for passengers at an airport.,hyponym,16652,tip,the pointed or rounded extremity of something slender or tapering.
+18137,end,The final point in a process.,hyponym,19614,termination,ending the employment of a person
+23756,end,a final part of something.,antonym,23751,middle,a middle point or position.
+23756,end,a final part of something.,antonym,23757,beginning,the first part of something.
+24482,approach,a way of dealing with something.,hyponym,17756,avenue,"a broad road or path, especially one lined with trees. "
+13941,arrival,the act of arriving,hypernym,17682,action,a thing done.
+13941,arrival,the act of arriving,hyponym,13945,entrance,an act of entering
+13945,entrance,an act of entering,hypernym,13941,arrival,the act of arriving
+13945,entrance,an act of entering,hyponym,24167,admission,registration and entry (into an institution).
+13945,entrance,an act of entering,hyponym,21288,incursion," an invasion or attack, especially a sudden or brief one."
+14030,departure,the action of departing.,hyponym,14041,exit,an act of leaving.
+14041,exit,an act of leaving.,hypernym,14030,departure,the action of departing.
+23426,descent,the action of coming down (something).,hyponym,17428,cascade,a waterfall or succession of waterfalls
+14215,emergence,the act or instance of coming out (of a dark place) gradually,hyponym,15247,rise,a move upwards on a scale
+22513,arrangement,"the action, process, or result of arranging.",hyponym,25135,formation,an arrangement of entities forming a recognizable shape
+14314,purge,an act of purging people from an organization or place.,hypernym,14316,removal,the action of removing.
+14316,removal,the action of removing.,hyponym,14314,purge,an act of purging people from an organization or place.
+14422,step,a motion of the foot and leg which results in overall motion of a body.,hypernym,22451,sound,a thing that can be heard.
+24880,way,option,hypernym,24881,choice,a possibility that one can select
+25539,way,the trajectory that will lead a theme from some prior location to a desire or intended goal. ,hyponym,24067,path,the direction in which a person or thing moves.
+25539,way,the trajectory that will lead a theme from some prior location to a desire or intended goal. ,hyponym,17773,lane,"a narrow road, especially in a rural area. "
+14528,observation,the action or process of closely observing or monitoring,hyponym,13120,monitoring,the act of observing and checking over a period of time.
+14540,stare,a fixed look at someone or something with the eyes wide open,hyponym,12849,contemplation,the action of contemplating.
+14717,taste,the sensation of flavour perceived in the mouth on contact with a substance.,hypernym,14706,perception,the ability to become aware of something through the senses
+14706,perception,the ability to become aware of something through the senses,hyponym,14714,smell, a quality in something that is perceived by this faculty
+14706,perception,the ability to become aware of something through the senses,hyponym,14717,taste,the sensation of flavour perceived in the mouth on contact with a substance.
+16491,experience,knowledge or skill acquired over time,hyponym,19264,life,a biographical account of a person' s experiences and actions
+16491,experience,knowledge or skill acquired over time,hyponym,22729,reminder,a thing that causes someone to remember something.
+23710,belief,"an acceptance that something exists or is true, especially one without proof.",hyponym,12779,suspicion,a feeling that something is possible or probable or that someone is guilty of a crime or offence.
+23710,belief,"an acceptance that something exists or is true, especially one without proof.",hyponym,23823,effect,(with in or into) the state or quality of being operational or effective.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22380,chatter,a series of short quick high-pitched sounds
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22392,creak,a creaking sound.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,25565,explosion,an event of a bomb or similar weapon detonating.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22387,clatter,a loud rattling sound as of hard objects falling or striking each other.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22421,scrunch,a loud crunching noise
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22427,snore,a snorting or grunting sound in a person' s breathing while they are asleep.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22385,clang,"a loud, resonant metallic sound."
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22393,crunch,a crunching sound.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22368,bark,"the sharp explosive cry of a dog, fox, or seal."
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,24583,howl,a long doleful cry uttered by an animal such as a dog.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hypernym,22451,sound,a thing that can be heard.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22422,sizzle,an instance or the sound of sizzling.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22384,clack,a clacking sound
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22411,plop,"a short sound as of a small, solid object dropping into water without a splash. "
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22418,rustle,a rustling sound.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22434,thunder,a loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air.
+22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing.",hyponym,22398,grunt,a grunting sound.
+14714,smell, a quality in something that is perceived by this faculty,hypernym,14706,perception,the ability to become aware of something through the senses
+22451,sound,a thing that can be heard.,hyponym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22451,sound,a thing that can be heard.,hyponym,22400,gurgle,a gurgling sound.
+22451,sound,a thing that can be heard.,hyponym,18825,sigh," a long, deep, audible exhalation expressing sadness, tiredness, relief, etc. "
+22451,sound,a thing that can be heard.,hyponym,22408,peal,"a loud sound or succession of sounds, especially of bells or laughter"
+22451,sound,a thing that can be heard.,hyponym,22437,toll,a single ring of a bell
+22451,sound,a thing that can be heard.,hyponym,22445,whistle,"a clear, high-pitched sound such as the one made by forcing breath through a small hole between partly closed lips, or between one' s teeth"
+22451,sound,a thing that can be heard.,hyponym,19211,song,a short poem or other set of words set to music. 
+22451,sound,a thing that can be heard.,hyponym,24582,cry,a distinctive call of a bird or other animal.  
+22451,sound,a thing that can be heard.,hyponym,22748,drum,"a percussion instrument sounded by being struck with sticks or the hands, typically cylindrical, barrel-shaped, or bowl-shaped with a taut membrane over one or both ends."
+22451,sound,a thing that can be heard.,hyponym,22388,click,"a short, sharp sound as of two metallic or plastic objects coming smartly into contact"
+22451,sound,a thing that can be heard.,hyponym,16508,whiz,a person who is extremly clever at something
+22451,sound,a thing that can be heard.,hyponym,14422,step,a motion of the foot and leg which results in overall motion of a body.
+22451,sound,a thing that can be heard.,hyponym,22412,plunk,a plunking sound.
+22451,sound,a thing that can be heard.,hyponym,22407,patter,a repeated light tapping.
+25286,image,An impression that a person has of something or someone,hypernym,23694,impression,a level of esteem
+26592,revolution,,hypernym,24300,turn,a change of direction
+14749,ouster,"A situation in which a person holding some office is removed from that office abruptly. This term usually implies that regular proceedure is not followed, and some degree of force or coercion is used. Takes the FE Old_leader in a PP[of].",hyponym,21820,deposition,a statement to be used as evidence.
+21095,star,an important performer,hyponym,21096,co-star,a performer appearing with another or others of equal importance. 
+17958,charge,an accusation of wrongdoing.,hyponym,21713,assessment,"the action of assessing; evaluating, judging"
+17912,accusation,a charge or claim that someone has done something illegal or wrong.,hypernym,13365,assertion,the act of asserting
+21294,charge,"a headlong rush forward, typically in attack.",hypernym,21286,attack, an instance of attacking.
+24528,management,the act of managing; direction or control,hyponym,23522,finance,"the management of money, especially with respect to governments and large companies."
+25401,legislator,an elected official working in the legislature; one who makes the laws,hypernym,22834,politician,"a person who is professionally involved in politics, especially as a holder of an elected office"
+25413,secretary,"the person in charge of a subsection of the government, i.e. the Secretary of Defense",hypernym,21780,assistant,a person who ranks below a senior person.
+25529,state,general descriptive term of a phase of matter. ,hyponym,22108,relationship,"the way in which two or more people or things are connected, or the state of being connected."
+25529,state,general descriptive term of a phase of matter. ,hyponym,16051,ownership,the state of owning s.t.
+25529,state,general descriptive term of a phase of matter. ,hyponym,25626,degree,"Extent, amount, often used of abstract entities: degree of involvement, degree of participation"
+25529,state,general descriptive term of a phase of matter. ,hyponym,25857,order,a state of non-confusion; the opposite of chaos
+25529,state,general descriptive term of a phase of matter. ,hyponym,22481,dependence,the state of relying on someone or something for financial or other support.
+25529,state,general descriptive term of a phase of matter. ,hyponym,22144,enlargement,the action or state of enlarging or being enlarged. 
+25529,state,general descriptive term of a phase of matter. ,hyponym,20744,obligation,an act or course of action to which a person is morally or legally bound
+25529,state,general descriptive term of a phase of matter. ,hyponym,25856,disorder,a state of chaos or confusion
+25529,state,general descriptive term of a phase of matter. ,hyponym,13920,death,the action or fact of dying or being killed.
+25529,state,general descriptive term of a phase of matter. ,hyponym,24098,condition,"the state of something or someone, with regard to appearance, fitness, or working order."
+25387,commissioner,the head of a public organization,hypernym,16155,member,a man' s penis
+14900,augmentation,the action of augmenting.,hypernym,15243,increase,a move up on a scale
+22144,enlargement,the action or state of enlarging or being enlarged. ,hypernym,25529,state,general descriptive term of a phase of matter. 
+14932,glass,a drinking container made of glass. ,hyponym,14992,goblet,a drinking glass with a foot and a stem
+14932,glass,a drinking container made of glass. ,hyponym,15027,tumbler,a drinking glass with straight sides and no handle or stem. formerly having a rounded bottom so as not to stand upright.
+14946,tin,"a container made of tinplate or aluminium, typically used for baking or storing",hypernym,21446,vessel,a ship or large boat.  
+14953,basin,"a large bowl or open container for washing in, preparing food, or holding liquid",hypernym,21446,vessel,a ship or large boat.  
+16741,bottle,"the volume of a container with a narrow neck, used for storing liquids",hypernym,21446,vessel,a ship or large boat.  
+16748,bowl,"the volume contained by a round, deep dish or basin",hypernym,21446,vessel,a ship or large boat.  
+24006,shell,"ammunition made from several materials, with a solid outer layer and an inner payload of explosives or shot.",hyponym,16433,boot,"a sturdy item of footwear covering the foot and ankle, and sometimes the lower leg. "
+24006,shell,"ammunition made from several materials, with a solid outer layer and an inner payload of explosives or shot.",hypernym,17133,housing,houses and flats considered collectively
+16305,instance,a particular case,hyponym,25160,time,a particular instance of the occurence of an event.
+21609,case,a situation which is under investigation by legal authorities to determine if a crime has been comitted and a prosecution is appropriate. ,hypernym,22053,argument,a heated exchange of diverging or opposite views.
+14985,dish,"a shallow, typically flat-bottomed container for cooking or serving food",hyponym,15019,casserole,"a large dish with a lid, used for cooking food slowly in an oven"
+14985,dish,"a shallow, typically flat-bottomed container for cooking or serving food",hyponym,15010,ramekin,a small dish for baking and serving an individual portion of food. 
+22748,drum,"a percussion instrument sounded by being struck with sticks or the hands, typically cylindrical, barrel-shaped, or bowl-shaped with a taut membrane over one or both ends.",hypernym,22451,sound,a thing that can be heard.
+14992,goblet,a drinking glass with a foot and a stem,hypernym,14932,glass,a drinking container made of glass. 
+21203,bond, physical restraints used to hold someone prisoner.,hypernym,18364,constraint,something that forcibly confines (someone or something)
+15003,overnighter,an overnight bag. ,hypernym,24664,guest,a person who is invited to visit someone' s home or take part in a function.
+15010,ramekin,a small dish for baking and serving an individual portion of food. ,hypernym,14985,dish,"a shallow, typically flat-bottomed container for cooking or serving food"
+15019,casserole,"a large dish with a lid, used for cooking food slowly in an oven",hypernym,14985,dish,"a shallow, typically flat-bottomed container for cooking or serving food"
+15027,tumbler,a drinking glass with straight sides and no handle or stem. formerly having a rounded bottom so as not to stand upright.,hypernym,14932,glass,a drinking container made of glass. 
+15042,tub,"an open, flat-bottomed, usually round container",hypernym,21446,vessel,a ship or large boat.  
+25344,window,a time period that allows an action to occur,hypernym,15079,period,a length or portion of time. 
+15079,period,a length or portion of time. ,hyponym,25171,time,an indefinite period of time
+15079,period,a length or portion of time. ,hyponym,25344,window,a time period that allows an action to occur
+15079,period,a length or portion of time. ,hyponym,18081,evening,"the period of time at the end of the day, between late afternoon and bedtime"
+15079,period,a length or portion of time. ,hyponym,25254,times,multiples of an original quantity
+15079,period,a length or portion of time. ,hyponym,16203,festival," day or period of celebration or an organized series of concerts, films.       "
+15079,period,a length or portion of time. ,hyponym,18109,hour,a period of time equal to a twenty-fourth part of a day and night and divided into 60 minutes
+15079,period,a length or portion of time. ,hyponym,19455,life,"The state of an organism in which its biological processes are in normal operation, including metabolism and (for higher organisms) the nervous system, blood circulation, respiration, etc."
+15079,period,a length or portion of time. ,hyponym,18060,day,"a twenty-four-hour period as a unit of time, reckoned from one midnight to the next and corresponding to a rotation of the earth on its axis"
+15079,period,a length or portion of time. ,hyponym,18083,night,the time from sunset to sunrise
+15079,period,a length or portion of time. ,hyponym,24779,past,a person' s or thing' s history or earlier life.
+15079,period,a length or portion of time. ,hyponym,18087,year,"the period of 365 days (or 366 days in leap years) starting from the first of January, used for reckoning time in ordinary affairs"
+15079,period,a length or portion of time. ,hyponym,18114,quarter,"a period of three months, used especially in reference to financial transactions"
+15079,period,a length or portion of time. ,hyponym,16882,watch,a small timepiece worn typically on a strap on one' s wrist. 
+15168,cost,the amount that something costs.,hypernym,22172,value,the usefulness of an Entity with respect to some Purpose.  
+15243,increase,a move up on a scale,hyponym,14900,augmentation,the action of augmenting.
+15243,increase,a move up on a scale,hyponym,15282,escalation,increase rapidly.
+15243,increase,a move up on a scale,hyponym,25250,addition,the process of combining two numbers
+15247,rise,a move upwards on a scale,hypernym,14215,emergence,the act or instance of coming out (of a dark place) gradually
+26267,decline,process of becoming worse.,hyponym,26266,deterioration,the process of becoming worse.
+25565,explosion,an event of a bomb or similar weapon detonating.,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+15282,escalation,increase rapidly.,hypernym,15243,increase,a move up on a scale
+23257,shift,a relatively sudden change. ,hyponym,23479,advance,a development or improvement.
+15285,gain,an increase (in wealth or resources).,antonym,24612,loss,"money spent by a company, cutting into profit."
+15285,gain,an increase (in wealth or resources).,hypernym,25622,amount,a quantity
+15294,depression,to decrease,hypernym,15433,push,a change in position caused by some force.
+22064,spat,a petty quarrel.,hypernym,15724,offspring,"a person' s child or children, or the young of an animal."
+22385,clang,"a loud, resonant metallic sound.",hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22062,row,an acrimonious quarrel.,hypernym,25136,sequence,a temporal arrangement of entities
+19651,row,a line (often occurring adjacent to other rows),hypernym,19640,strip,"a long, narrow piece of cloth, paper, etc. "
+23099,employment,application or use in a particular situation.,hypernym,17682,action,a thing done.
+23099,employment,application or use in a particular situation.,hyponym,25786,booking,arrangement to receive a service at a particular time.
+15433,push,a change in position caused by some force.,hyponym,15294,depression,to decrease
+16010,push,strenuous effort to reach a goal.,hypernym,23488,progression,sequence of change in accord with normal expectations.
+19541,evolution,the gradual development of an entity,hypernym,24487,process,a series of actions or steps towards achieving a particular end.
+16250,kind,a class or type of people or things having similar characteristics,hyponym,16255,ilk,a type (usually negatively evaluated)
+16250,kind,a class or type of people or things having similar characteristics,hyponym,25843,genus,"one of the lowest-ranking taxonomic class, situated between Family and Species"
+16250,kind,a class or type of people or things having similar characteristics,hyponym,21542,like,a person or thing that is similar to a familiar one
+16250,kind,a class or type of people or things having similar characteristics,hyponym,16248,type,a category of people or things having common characteristics
+16250,kind,a class or type of people or things having similar characteristics,hyponym,25498,style,a general form that an artwork resembles
+16250,kind,a class or type of people or things having similar characteristics,hyponym,25844,species,"a formal taxonomic class, subdivision of a genus; members of a species can interbreed, while members of different species usually cannot"
+24685,assortment,a miscellaneous collection.,hyponym,19923,selection,"the action or fact of selecting, or a number of selected things, or a range of things from which a choice may be made. "
+24685,assortment,a miscellaneous collection.,hyponym,24676,range,a set of different things of the same general type.
+16882,watch,a small timepiece worn typically on a strap on one' s wrist. ,hypernym,15079,period,a length or portion of time. 
+15502,circus,for everyone,hypernym,17071,arena,"a level area surrounded by seating, in which public events and entertainments are held. "
+15503,error,,hypernym,23661,failure,an endeavor that does not succeed
+15550,betrothed, the person to whom one is engaged.,hypernym,15560,lover,a person having a sexual or romantic relationship with another
+22118,marriage,"the formal union of a man and a woman, typically as recognized by law, by which they become husband and wife.",hypernym,19303,rite,a religious or other solemn ceremony or act
+15560,lover,a person having a sexual or romantic relationship with another,hyponym,15550,betrothed, the person to whom one is engaged.
+15560,lover,a person having a sexual or romantic relationship with another,hyponym,15577,inamorata,a woman with whom one is in love
+26272,partner,"fellow member of the same partership. This is a business usage, as opposed to the use in the Personal_relatoinship frame. ",hypernym,21184,associate,a partner or companion in business or at work
+21184,associate,a partner or companion in business or at work,hyponym,23105,participant,somebody who participates in an event
+21184,associate,a partner or companion in business or at work,hyponym,15567,friend,"a person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations"
+21184,associate,a partner or companion in business or at work,hyponym,26270,co-worker,fellow worker; someone who works for the same company or institution.
+21184,associate,a partner or companion in business or at work,hyponym,16155,member,a man' s penis
+21184,associate,a partner or companion in business or at work,hyponym,15584,mate,a friend or companion. 
+21184,associate,a partner or companion in business or at work,hyponym,26272,partner,"fellow member of the same partership. This is a business usage, as opposed to the use in the Personal_relatoinship frame. "
+15567,friend,"a person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations",hypernym,21184,associate,a partner or companion in business or at work
+15577,inamorata,a woman with whom one is in love,hypernym,15560,lover,a person having a sexual or romantic relationship with another
+15584,mate,a friend or companion. ,hypernym,21184,associate,a partner or companion in business or at work
+15585,crush,an intense infatuation,hypernym,15626,crowd,a large number of people gathered together
+25901,function,an essential activity for which an instrument was created,hyponym,16196,celebration,an event honoring a special occasion
+22108,relationship,"the way in which two or more people or things are connected, or the state of being connected.",hypernym,25529,state,general descriptive term of a phase of matter. 
+15626,crowd,a large number of people gathered together,hyponym,15653,huddle,a number of people or things crowded together. 
+15626,crowd,a large number of people gathered together,hyponym,15585,crush,an intense infatuation
+15626,crowd,a large number of people gathered together,hyponym,23852,army,an organized military force equipped for fighting on land.
+23852,army,an organized military force equipped for fighting on land.,hypernym,15626,crowd,a large number of people gathered together
+23114,party,a participant in an event.,hyponym,16202,dance,a social gathering at which people dance. 
+23114,party,a participant in an event.,hyponym,16194,shindig," a large, lively party. "
+23114,party,a participant in an event.,hyponym,16205,dinner,"a formal evening meal, typically one in honour of a person or event. "
+15631,assemblage,a collection or gathering,antonym,21171,dismantlement,the act of taking something apart.
+21044,fabrication,"construction or manufacturing  of an industrial product, especially from prepared components",antonym,21171,dismantlement,the act of taking something apart.
+15632,band,a group of animals or people,hyponym,17520,neckband,a strip of material round the neck of a garment
+15632,band,a group of animals or people,part_holonym,16381,garment,an item of clothing
+24694,multiplicity,a large number or variety.,hypernym,25624,number,"A calculated count; also, an estimate. Ex: The number was at least 1000. Ex: The number of peaches was 175."
+25842,family,the taxonomic rank between Order and Genus,hypernym,15715,relative,a person connected by blood or marriage
+15639,corps,a body of people engaged in a particular activity,hypernym,16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. "
+15640,set,a group or collection of things belonging or used together or resembling one another,hyponym,15658,quintet,a set of five people or things
+15640,set,a group or collection of things belonging or used together or resembling one another,hyponym,17851,score,a group or set of twenty
+15644,school,"a large group of fish or sea mammals, or a group of people sharing similar ideas, methods, or style. ",hypernym,16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. "
+15653,huddle,a number of people or things crowded together. ,hypernym,15626,crowd,a large number of people gathered together
+15658,quintet,a set of five people or things,hypernym,15640,set,a group or collection of things belonging or used together or resembling one another
+16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. ",hyponym,15644,school,"a large group of fish or sea mammals, or a group of people sharing similar ideas, methods, or style. "
+16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. ",hyponym,17587,university,a high-level educational institution in which students study for degrees and academic research is done.
+16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. ",hyponym,23857,militia,"a military force composed of citizens, as opposed to professional full-time soldiers."
+16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. ",hyponym,15639,corps,a body of people engaged in a particular activity
+16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. ",hyponym,22790,membership,the body of members
+16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. ",hyponym,17040,church,a building used for public Christian worship. 
+16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. ",hyponym,17604,college,(in Britain) any of the independent institutions into which some universities are separated.
+23990,force,physical power or strength,hypernym,25471,intensity,the quality or condition of being intense
+25787,book,the records of the accounts of a business (usually plural); any other binded pages which contain recorded data,hypernym,25253,product,a number that results from multiplication
+15671,mother,a woman in relation to a child or children to whom she has given birth,hypernym,22944,inspiration,an event of sudden creativity
+26277,sister,"member of the same sororal organization, especially women' s religious organization or labor union.",hypernym,16155,member,a man' s penis
+15689,son-in-law,the husband of a person' s daughter,hypernym,15705,in-law,a relative by marriage
+15690,daughter-in-law,the wife of one' s son,hypernym,15705,in-law,a relative by marriage
+15697,brother-in-law,"the brother of one' s wife or husband, or the husband of one' s sister or sister-in-law. ",hypernym,15705,in-law,a relative by marriage
+15705,in-law,a relative by marriage,hypernym,15715,relative,a person connected by blood or marriage
+15705,in-law,a relative by marriage,hyponym,15689,son-in-law,the husband of a person' s daughter
+15705,in-law,a relative by marriage,hyponym,15697,brother-in-law,"the brother of one' s wife or husband, or the husband of one' s sister or sister-in-law. "
+15705,in-law,a relative by marriage,hyponym,15690,daughter-in-law,the wife of one' s son
+15712,kinsman,pl. -men or -women (in anthropological or formal use) one of a person' s blood relations,hypernym,15715,relative,a person connected by blood or marriage
+15714,kinswoman,one of a person' s female blood relations,hypernym,15715,relative,a person connected by blood or marriage
+15715,relative,a person connected by blood or marriage,hyponym,15712,kinsman,pl. -men or -women (in anthropological or formal use) one of a person' s blood relations
+15715,relative,a person connected by blood or marriage,hyponym,15714,kinswoman,one of a person' s female blood relations
+15715,relative,a person connected by blood or marriage,hyponym,15705,in-law,a relative by marriage
+15715,relative,a person connected by blood or marriage,hyponym,25842,family,the taxonomic rank between Order and Genus
+15724,offspring,"a person' s child or children, or the young of an animal.",hyponym,22064,spat,a petty quarrel.
+15728,kinship,"The relations between anthropomorphic entities which constitute a classification as ""kinship""",hyponym,13579,sympathy,feelings of pity and sorrow for someone else' s misfortune
+16294,flicker,the emission of light unsteadily from a source,hypernym,16296,flash,a sudden brief burst of light
+16296,flash,a sudden brief burst of light,hyponym,16294,flicker,the emission of light unsteadily from a source
+15777,implement,"a tool, utensil, or other piece of equipment, used for a particular purpose. ",hyponym,19639,stick,"a long, thin object or piece of something"
+15777,implement,"a tool, utensil, or other piece of equipment, used for a particular purpose. ",hyponym,15780,utensil,"a tool or container, especially for household use. "
+15780,utensil,"a tool or container, especially for household use. ",hypernym,15777,implement,"a tool, utensil, or other piece of equipment, used for a particular purpose. "
+15781,instrument,"a tool or implement, especially for precision work",hyponym,25455,engine,the component of the vehicule that provides the necessary power for the motion of the vehicule. 
+23532,equipment,the process of supplying needed resources,hyponym,23542,material,the matter from which a thing is or can be made
+15790,system,a complex machine whose parts are working together as a mechanism or interconnecting network,part_meronym,23765,infrastructure,"the basic facilities, installations, or other components needed for the operation of a system or organization"
+15791,gear,apparatus or equipment,hyponym,16596,third,one of three parts.
+15791,gear,apparatus or equipment,hyponym,17600,park,"a large public garden in a town, used for recreation."
+23110,player,a person that is involved and influential in an activity.,hypernym,23105,participant,somebody who participates in an event
+24676,range,a set of different things of the same general type.,hypernym,24685,assortment,a miscellaneous collection.
+25626,degree,"Extent, amount, often used of abstract entities: degree of involvement, degree of participation",hypernym,25529,state,general descriptive term of a phase of matter. 
+25621,level,An amount or quantity of substance.,hypernym,23612,rank,a level within a hierarchy of merit
+15796,test,a short examination of proficiency,hypernym,15998,attempt,an act of attempting
+21713,assessment,"the action of assessing; evaluating, judging",hypernym,17958,charge,an accusation of wrongdoing.
+15811,length,the measurement or extent of something from end to end; the greater or greatest of two or more dimensions of a body.,hypernym,25625,extent,"amount, usually of something that is not measured numerically.: I will help you to the extent that I can, but I can' t promise you that I will succeed. "
+17434,region,an area of a country or the world having definable characteristics but not always fixed boundaries. ,hyponym,17518,sole,the section forming the underside of a piece of footwear.
+17432,area,a region of an expanse,hyponym,17522,territory,an area under the jurisdiction of a ruler or state. 
+23513,area,a subject or range of activity.,hyponym,17524,province,a principal administrative division of a country or empire. 
+23513,area,a subject or range of activity.,hyponym,17558,land,territory controlled by a government
+25196,work,the product or result of one' s effort.,hypernym,25253,product,a number that results from multiplication
+24667,work,activity involving mental or physical effort done in order to achieve a result.,hyponym,21606,investigation,a systematic search or inquiry into an incident
+24667,work,activity involving mental or physical effort done in order to achieve a result.,hypernym,17687,activity,an action taken in pursuit of an objective
+24667,work,activity involving mental or physical effort done in order to achieve a result.,hyponym,20740,duty,a moral or legal obligation; a task required as part of one' s job. 
+24667,work,activity involving mental or physical effort done in order to achieve a result.,hyponym,24481,procedure,a series of actions conducted in a certain order or manner.
+24879,possibility,a thing that is possible; the state or fact of being possible. ,hyponym,25358,chance,an exhaustible state of being able to pursue or attain a situation
+25358,chance,an exhaustible state of being able to pursue or attain a situation,hypernym,24879,possibility,a thing that is possible; the state or fact of being possible. 
+15956,improbability,the extent to which something is improbable,antonym,25363,probability,likelihood of an event occuring
+25363,probability,likelihood of an event occuring,antonym,15956,improbability,the extent to which something is improbable
+19287,misfortune,an unfortunate event. ,hyponym,21521,hardship,a difficulty or challenge
+19287,misfortune,an unfortunate event. ,hypernym,19289,trouble,difficulty or problems. 
+19287,misfortune,an unfortunate event. ,hyponym,13832,pity,the feeling of sorrow and compassion caused by the sufferings of others
+17177,incident,an occurence,part_holonym,17176,episode,an occurance 
+15997,victim,"a person harmed, injured, or killed as a result of a crime, accident, etc.",hyponym,15992,casualty,"any person or thing that is harmed, killed, or destroyed as a result of some act or event"
+15992,casualty,"any person or thing that is harmed, killed, or destroyed as a result of some act or event",hypernym,15997,victim,"a person harmed, injured, or killed as a result of a crime, accident, etc."
+15998,attempt,an act of attempting,hyponym,19192,essay,1. a piece of writing on a particular subject.
+15998,attempt,an act of attempting,hypernym,17687,activity,an action taken in pursuit of an objective
+15998,attempt,an act of attempting,hyponym,16007,stab,an attempt to do.
+15998,attempt,an act of attempting,hyponym,15796,test,a short examination of proficiency
+15998,attempt,an act of attempting,hyponym,16580,contribution,something that is given towards an effort or cause
+16007,stab,an attempt to do.,hypernym,15998,attempt,an act of attempting
+22980,transgression,an act that defies moral precepts.,hypernym,17682,action,a thing done.
+16033,conformity,"compliance with conventions, rules, or laws.",hypernym,23626,convention,"an agreement between states, especially one less formal than a treaty.  "
+21479,possession,the criminal act of possessing an illegal item or items,hypernym,25798,control,a subject or group of subjects in an experiment which are left untreated and are then compared with treated subjects in order to validate or invalidate a hypothesis
+16050,possession,a thing owned or possessed,hyponym,16060,belongings,things (generally small and portable) owned by s.o.
+16050,possession,a thing owned or possessed,hyponym,16061,assets,"property owned by a person or company, regarded as having value and being available to meet debts, commitments, or legacies."
+16051,ownership,the state of owning s.t.,hypernym,25529,state,general descriptive term of a phase of matter. 
+16060,belongings,things (generally small and portable) owned by s.o.,hypernym,16050,possession,a thing owned or possessed
+16061,assets,"property owned by a person or company, regarded as having value and being available to meet debts, commitments, or legacies.",hypernym,16050,possession,a thing owned or possessed
+16061,assets,"property owned by a person or company, regarded as having value and being available to meet debts, commitments, or legacies.",hyponym,25622,amount,a quantity
+16655,face,"the surface of a thing, especially one that is presented to the view or has a particular function.",hypernym,16641,front,the side or part of an object that presents itself to view or that is normally seen or used first.
+16085,face,"the front part of a person' s head from the forehead to the chin, or the corresponding part in an animal. ",hyponym,16112,muzzle,"the projecting part of the face, including the nose and mouth, of an animal such as a dog or horse"
+16654,foot,the lower or lowest part of something vertical; the base or bottom. ,hypernym,16640,bottom,"the lowest point, position, or part of something. "
+16731,foot,a unit of linear measure equal to 12 inches (30.48 cm). ,part_holonym,17500,leg,a part of a garment covering a leg or part of a leg. 
+16093,hand,"the end part of the arm beyond the wrist, including the palm, fingers, and thumb. ",hypernym,16119,forepaw,each of the frontmost paws of an animal
+16095,heel,the back part of the foot below the ankle.,hypernym,17117,terminal,a departure and arrival building for passengers at an airport.
+16126,antenna,"a long, thin sensory appendage found in pairs on the heads of insects and some other arthropods.",hypernym,13917,sensitivity,the quality or condition of being sensitive to slight changes or influences
+16112,muzzle,"the projecting part of the face, including the nose and mouth, of an animal such as a dog or horse",hypernym,16085,face,"the front part of a person' s head from the forehead to the chin, or the corresponding part in an animal. "
+16119,forepaw,each of the frontmost paws of an animal,hyponym,16093,hand,"the end part of the arm beyond the wrist, including the palm, fingers, and thumb. "
+16125,nose,"the part projecting above the mouth on a person or animal, containing the nostrils and used in breathing and smelling",hypernym,16641,front,the side or part of an object that presents itself to view or that is normally seen or used first.
+19623,skin,the peel or outer layer of a fruit or vegetable or a thin outermost layer,hypernym,19633,surface,the outside part or uppermost layer of something.
+16132,fingertip,the tip of the finger,hypernym,16652,tip,the pointed or rounded extremity of something slender or tapering.
+22590,brim,the (sometimes projecting) edge or rim of a hollow vessel.,part_holonym,21446,vessel,a ship or large boat.  
+17518,sole,the section forming the underside of a piece of footwear.,hypernym,17434,region,an area of a country or the world having definable characteristics but not always fixed boundaries. 
+17518,sole,the section forming the underside of a piece of footwear.,part_meronym,19645,ball,a solid or hollow sphere.
+16149,tentacle,"a long slender flexible appendage of an animal, used for grasping or moving about, or bearing sense organs.",hypernym,22667,grasp,a person' s understanding.
+16155,member,a man' s penis,hyponym,26277,sister,"member of the same sororal organization, especially women' s religious organization or labor union."
+16155,member,a man' s penis,hyponym,13162,pledge,a solemn promise or undertaking
+16155,member,a man' s penis,hypernym,21184,associate,a partner or companion in business or at work
+16155,member,a man' s penis,hyponym,25387,commissioner,the head of a public organization
+17500,leg,a part of a garment covering a leg or part of a leg. ,part_meronym,16160,knee,a joint between the upper and lower leg that projects forward and is protected by the patella.
+17500,leg,a part of a garment covering a leg or part of a leg. ,part_meronym,16731,foot,a unit of linear measure equal to 12 inches (30.48 cm). 
+16160,knee,a joint between the upper and lower leg that projects forward and is protected by the patella.,part_holonym,17500,leg,a part of a garment covering a leg or part of a leg. 
+16177,abduction,the action or condition of being taken away illegally by force or deception.,hypernym,25733,capture,the event of taking someone or something captive.
+16194,shindig," a large, lively party. ",hypernym,23114,party,a participant in an event.
+16196,celebration,an event honoring a special occasion,hypernym,25901,function,an essential activity for which an instrument was created
+29804,dance,the expression or application of creative skill and imagination through body movement,hypernym,23515,art,"the expression or application of creative skill and imagination, especially through a visual medium such as painting or sculpture."
+16202,dance,a social gathering at which people dance. ,hypernym,23114,party,a participant in an event.
+16202,dance,a social gathering at which people dance. ,hyponym,16213,ball, a formal social gathering for dancing. 
+16203,festival," day or period of celebration or an organized series of concerts, films.       ",hypernym,15079,period,a length or portion of time. 
+16205,dinner,"a formal evening meal, typically one in honour of a person or event. ",hypernym,23114,party,a participant in an event.
+16213,ball, a formal social gathering for dancing. ,hypernym,16202,dance,a social gathering at which people dance. 
+19645,ball,a solid or hollow sphere.,part_holonym,17518,sole,the section forming the underside of a piece of footwear.
+25458,part,a component of a vehicle that has a distinct function,hyponym,16591,segment,each of the parts into which something is or may be divided
+25458,part,a component of a vehicle that has a distinct function,hyponym,19640,strip,"a long, narrow piece of cloth, paper, etc. "
+25458,part,a component of a vehicle that has a distinct function,hyponym,16632,slice,"a thin, broad piece of food cut from a larger portion. "
+25458,part,a component of a vehicle that has a distinct function,hyponym,16625,hunk,a large piece cut or broken from something larger
+25458,part,a component of a vehicle that has a distinct function,hyponym,16635,fragment,a small part broken off or detached
+25458,part,a component of a vehicle that has a distinct function,hypernym,18380,thing,an individuable object.
+25458,part,a component of a vehicle that has a distinct function,hyponym,16651,base,"the lowest part or edge of something, especially the part on which it rests or is supported. "
+25458,part,a component of a vehicle that has a distinct function,hyponym,17538,world,the earth with all its countries and peoples
+25487,part,"an object that serves a distinct function in a complex artifact, especially of machines.",hypernym,24125,concern,a matter of interest or importance.
+16580,contribution,something that is given towards an effort or cause,hypernym,15998,attempt,an act of attempting
+16248,type,a category of people or things having common characteristics,hypernym,16250,kind,a class or type of people or things having similar characteristics
+16248,type,a category of people or things having common characteristics,hyponym,21557,variant,a form or version that varies from other forms of the same thing or from a standard.
+16248,type,a category of people or things having common characteristics,hyponym,16254,breed,"a sort or kind, esp. a distinctive stock of animals or plants within a species, typically one deliberately developed"
+16254,breed,"a sort or kind, esp. a distinctive stock of animals or plants within a species, typically one deliberately developed",hypernym,16248,type,a category of people or things having common characteristics
+16255,ilk,a type (usually negatively evaluated),hypernym,16250,kind,a class or type of people or things having similar characteristics
+21557,variant,a form or version that varies from other forms of the same thing or from a standard.,hypernym,16248,type,a category of people or things having common characteristics
+27222,lesson,"a unit of teaching activity or text, either for a single class period or pertaining to specific material to be learned together",hypernym,22088,admonition,warning about something that (the addressed individual) will probably do wrong.
+21286,attack, an instance of attacking.,part_meronym,21466,assault,"an act that threatens physical harm to a person, whether or not actual harm is done."
+21286,attack, an instance of attacking.,hyponym,21312,fire,attack by projectile weapons.
+21286,attack, an instance of attacking.,hyponym,21294,charge,"a headlong rush forward, typically in attack."
+16324,stocking,"a woman' s garment that fits closely over the foot and leg, typically made of fine knitted nylon yarn, held up by suspenders or an elasticated strip at the upper thigh.",hypernym,23900,provision,a condition or requirement in a legal document.
+17505,skirt,the part of a coat or dress that hangs below the waist. ,part_meronym,17499,seat,clothing that covers a person' s buttocks. 
+17505,skirt,the part of a coat or dress that hangs below the waist. ,part_holonym,16381,garment,an item of clothing
+16344,hose,"stockings, socks, and tights",hypernym,16381,garment,an item of clothing
+16370,apron,a protective garment covering the front of one' s clothes and tied at the back. [Clothing] ,hypernym,24804,site,"The place at which an event takes place; may be on any scale: the site of the factory, the instertion site of the hypodermic."
+16381,garment,an item of clothing,part_meronym,15632,band,a group of animals or people
+16381,garment,an item of clothing,hyponym,16455,silks,"garments made from silk, especially as worn by a jockey in the colours of a particular horse owner."
+16381,garment,an item of clothing,part_meronym,17505,skirt,the part of a coat or dress that hangs below the waist. 
+16381,garment,an item of clothing,hyponym,16344,hose,"stockings, socks, and tights"
+16433,boot,"a sturdy item of footwear covering the foot and ankle, and sometimes the lower leg. ",hypernym,24006,shell,"ammunition made from several materials, with a solid outer layer and an inner payload of explosives or shot."
+16434,shoe,a covering for the foot having a sturdy sole and not reaching above the ankle. ,hypernym,25617,plate,plate armor.
+16436,clog,a shoe with a thick wooden sole. ,hypernym,21514,encumbrance,a burden or impediment.
+16455,silks,"garments made from silk, especially as worn by a jockey in the colours of a particular horse owner.",hypernym,16381,garment,an item of clothing
+16494,mastery,the mastering of a subject or skill,hypernym,24526,domination,"authority, rule or control over some entity or situation"
+16497,pro,a professional,hypernym,22053,argument,a heated exchange of diverging or opposite views.
+16508,whiz,a person who is extremly clever at something,hypernym,22451,sound,a thing that can be heard.
+22678,art,an activity with an aesthetic component requiring knowledge and skill ,hyponym,17135,fortification,"building or structure for strengthening, securing, and fortifying a location."
+16517,virtuosity,great skill in music or another artistic pursuit,hypernym,22680,science,a procedurally complex activity requiring methodical attention to detail
+22680,science,a procedurally complex activity requiring methodical attention to detail,hyponym,16517,virtuosity,great skill in music or another artistic pursuit
+16573,gift,a thing given willingly to someone without payment; a present. ,hyponym,16581,charity,a gift to or the act of giving to another
+16581,charity,a gift to or the act of giving to another,hypernym,16573,gift,a thing given willingly to someone without payment; a present. 
+16635,fragment,a small part broken off or detached,hypernym,25458,part,a component of a vehicle that has a distinct function
+16591,segment,each of the parts into which something is or may be divided,hypernym,25458,part,a component of a vehicle that has a distinct function
+16595,hundredth,one of one hundred parts.,hypernym,23612,rank,a level within a hierarchy of merit
+16596,third,one of three parts.,hypernym,15791,gear,apparatus or equipment
+18114,quarter,"a period of three months, used especially in reference to financial transactions",hypernym,15079,period,a length or portion of time. 
+16621,scrap,"a small piece or amount of something, especially one that is left over after the greater part has been used",hypernym,16631,piece,"a portion of an object or of material produced by cutting, tearing, or breaking the whole. "
+16624,snippet,a small piece or brief extract,hypernym,16631,piece,"a portion of an object or of material produced by cutting, tearing, or breaking the whole. "
+16625,hunk,a large piece cut or broken from something larger,hypernym,25458,part,a component of a vehicle that has a distinct function
+16628,chip,"a small, thin piece removed in the course of chopping, cutting, or breaking a hard material",hypernym,20757,blemish,a small mark or flaw which spoils the appearance of something. 
+16631,piece,"a portion of an object or of material produced by cutting, tearing, or breaking the whole. ",hyponym,16621,scrap,"a small piece or amount of something, especially one that is left over after the greater part has been used"
+16631,piece,"a portion of an object or of material produced by cutting, tearing, or breaking the whole. ",hyponym,16624,snippet,a small piece or brief extract
+16632,slice,"a thin, broad piece of food cut from a larger portion. ",hypernym,25458,part,a component of a vehicle that has a distinct function
+24229,cover,"protection, often from attack from above.",hyponym,16846,cap,"a soft, flat hat without a brim and usually with a peak. "
+16640,bottom,"the lowest point, position, or part of something. ",hyponym,16654,foot,the lower or lowest part of something vertical; the base or bottom. 
+16641,front,the side or part of an object that presents itself to view or that is normally seen or used first.,hyponym,16125,nose,"the part projecting above the mouth on a person or animal, containing the nostrils and used in breathing and smelling"
+16641,front,the side or part of an object that presents itself to view or that is normally seen or used first.,hyponym,16655,face,"the surface of a thing, especially one that is presented to the view or has a particular function."
+23785,peak,the pointed top of a mountain,hypernym,25896,limit,the boundary of the capabilities or possibilities of something.
+23785,peak,the pointed top of a mountain,hyponym,24077,maximum,"the greatest amount, extent, or intensity possible or recorded."
+16651,base,"the lowest part or edge of something, especially the part on which it rests or is supported. ",hypernym,25458,part,a component of a vehicle that has a distinct function
+16652,tip,the pointed or rounded extremity of something slender or tapering.,hypernym,17117,terminal,a departure and arrival building for passengers at an airport.
+16652,tip,the pointed or rounded extremity of something slender or tapering.,hyponym,16132,fingertip,the tip of the finger
+17009,freeze,an act of freezing,hypernym,17005,pause,a temporary stop in action or speech. 
+16738,block,one city street length,hypernym,21513,impediment,a hindrance or obstruction. 
+16739,pint,"a unit of liquid or dry capacity equal to one eighth of a gallon, in Britain equal to 0.568 litre and in the US equal to 0.473 litre (for liquid measure) or 0.551 litre (for dry measure).",part_holonym,16754,quart,"a unit of liquid capacity equal to a quarter of a gallon or two pints, equivalent in Britain to approximately 1.13 litres and in US to approximately 0.94 litre."
+16754,quart,"a unit of liquid capacity equal to a quarter of a gallon or two pints, equivalent in Britain to approximately 1.13 litres and in US to approximately 0.94 litre.",part_meronym,16739,pint,"a unit of liquid or dry capacity equal to one eighth of a gallon, in Britain equal to 0.568 litre and in the US equal to 0.473 litre (for liquid measure) or 0.551 litre (for dry measure)."
+16846,cap,"a soft, flat hat without a brim and usually with a peak. ",hypernym,24229,cover,"protection, often from attack from above."
+16870,headpiece,a device worn on the head. ,hypernym,16892,helmet,a hard or padded protective hat. 
+16886,badge,"a small piece of metal, plastic, or cloth bearing a design or words, typically worn to identify a person or to indicate support for a cause. ",hypernym,25935,characteristic,sign of
+16890,mitre,"a tall headdress worn by bishops and senior abbots, tapering to a point at front and back with a deep cleft between. [Eccl] ",hypernym,19633,surface,the outside part or uppermost layer of something.
+16891,helm,a helmet.,hyponym,25453,wheel,the part of the vehicule which holds a tire. 
+16892,helmet,a hard or padded protective hat. ,hyponym,16870,headpiece,a device worn on the head. 
+16911,ablution,formal &or. humorous an act of washing. ,hypernym,19304,ritual,a religious or solemn ceremony involving a series of actions performed according to a prescribed order. 
+16981,sneer,"a contemptuous or mocking smile, remark, or tone (in this frame, only the facial expression.)",hypernym,12969,contempt,the feeling that a person or a thing is worthless or beneath consideration
+17005,pause,a temporary stop in action or speech. ,hyponym,17009,freeze,an act of freezing
+18729,preparation,the act or process of making food ready for cooking and/or eating,hyponym,24869,groundwork,preliminary or basic work.
+18729,preparation,the act or process of making food ready for cooking and/or eating,hyponym,22516,deployment,the arrangement (of troops or materiel) to make ready (for military action).
+18729,preparation,the act or process of making food ready for cooking and/or eating,hypernym,17687,activity,an action taken in pursuit of an objective
+17038,house,a building for human habitation,hyponym,17622,bathhouse,"a building for bathing, typically for public use."
+17040,church,a building used for public Christian worship. ,hypernym,16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. "
+17058,monastery,a building housing a order of monks.,part_meronym,17192,cell,a small room in which a prisoner is locked up or in which a monk or nun sleeps. 
+17068,tent,"a portable shelter made of cloth, supported by one or more poles and stretched tight by cords attached to pegs driven into the ground.",hypernym,24133,web,a complex system of interconnected elements.
+17071,arena,"a level area surrounded by seating, in which public events and entertainments are held. ",hyponym,15502,circus,for everyone
+17377,bar,a sandbank or shoal at the mouth of a harbour or an estuary. ,hypernym,17413,ridge,"a long narrow hilltop, mountain range, or watershed"
+21678,prevention,the act of preventing,hyponym,23881,interception,the act of intercepting
+17132,structure,a building,hyponym,23765,infrastructure,"the basic facilities, installations, or other components needed for the operation of a system or organization"
+17133,housing,houses and flats considered collectively,hyponym,24006,shell,"ammunition made from several materials, with a solid outer layer and an inner payload of explosives or shot."
+17135,fortification,"building or structure for strengthening, securing, and fortifying a location.",hypernym,22678,art,an activity with an aesthetic component requiring knowledge and skill 
+17143,smuggling,the act or instances of moving (goods) illegally into or out of a country,hypernym,24010,importation,the action of moving goods into an area.
+17147,transaction,an instance of buying or selling.,hyponym,23238,exchange,an act or the action of exchanging.
+17147,transaction,an instance of buying or selling.,hyponym,17316,deal,a large but unspecified amount; usually used with ' good'  or ' great' 
+17175,event,a thing that happens or takes place.,hyponym,19268,make-up,cosmetics such as lipstick or powder applied to the face
+17176,episode,an occurance ,part_meronym,17177,incident,an occurence
+17176,episode,an occurance ,hyponym,19187,drama,a play. 
+17192,cell,a small room in which a prisoner is locked up or in which a monk or nun sleeps. ,part_holonym,17058,monastery,a building housing a order of monks.
+17227,studio,"a room where an artist works or where dancers practise, or a room from which television or radio programmes are broadcast, or in which they are recorded. ",antonym,25660,location,a region identified by where something is.
+17274,abundance,a very large quantity of something,hypernym,25623,quantity,an amount 
+25623,quantity,an amount ,hyponym,17274,abundance,a very large quantity of something
+25624,number,"A calculated count; also, an estimate. Ex: The number was at least 1000. Ex: The number of peaches was 175.",hyponym,24694,multiplicity,a large number or variety.
+19280,pinch,a difficult situation,hypernym,20504,difficulty,to state of being hard to deal with
+25622,amount,a quantity,hyponym,15285,gain,an increase (in wealth or resources).
+25622,amount,a quantity,hypernym,16061,assets,"property owned by a person or company, regarded as having value and being available to meet debts, commitments, or legacies."
+25622,amount,a quantity,hyponym,24612,loss,"money spent by a company, cutting into profit."
+23930,current,the flow of electrons providing power to electrical devices.,hypernym,24065,course,"the route or direction followed by a ship, aircraft, road, or river"
+17316,deal,a large but unspecified amount; usually used with ' good'  or ' great' ,hypernym,17147,transaction,an instance of buying or selling.
+23624,deal,an agreement entered into by two or more parties for their mutual benefit.,hypernym,21816,agreement,"a contract by which one party conveys land, property, services, etc. to another for a specified time. "
+24699,interruption,the ceasing of a process by an event.,hypernym,22041,delay,a period of time by which something is late or postponed.
+17399,burn,a small stream. (Scottish English),hypernym,20757,blemish,a small mark or flaw which spoils the appearance of something. 
+17413,ridge,"a long narrow hilltop, mountain range, or watershed",hyponym,23780,bank,the land alongside or sloping down to a river or lake.
+17413,ridge,"a long narrow hilltop, mountain range, or watershed",hyponym,17377,bar,a sandbank or shoal at the mouth of a harbour or an estuary. 
+24131,cascade,"a succession of devices or stages in a process, each of which triggers or initiates the next.",hypernym,23249,succession,the action or process by which an entity or state of affairs replaces another. 
+17428,cascade,a waterfall or succession of waterfalls,hypernym,23426,descent,the action of coming down (something).
+17558,land,territory controlled by a government,hypernym,23513,area,a subject or range of activity.
+25660,location,a region identified by where something is.,antonym,17227,studio,"a room where an artist works or where dancers practise, or a room from which television or radio programmes are broadcast, or in which they are recorded. "
+24804,site,"The place at which an event takes place; may be on any scale: the site of the factory, the instertion site of the hypodermic.",hyponym,16370,apron,a protective garment covering the front of one' s clothes and tied at the back. [Clothing] 
+17442,point,a particular spot or location. ,hyponym,12758,position,a way in which someone or something is placed or arranged.
+17499,seat,clothing that covers a person' s buttocks. ,part_holonym,17505,skirt,the part of a coat or dress that hangs below the waist. 
+17520,neckband,a strip of material round the neck of a garment,hypernym,15632,band,a group of animals or people
+17522,territory,an area under the jurisdiction of a ruler or state. ,hypernym,17432,area,a region of an expanse
+17524,province,a principal administrative division of a country or empire. ,hypernym,23513,area,a subject or range of activity.
+17538,world,the earth with all its countries and peoples,hypernym,25458,part,a component of a vehicle that has a distinct function
+17575,center,a place or group of buildings where a specified activity is concentrated.,hyponym,24643,capital,the governmental or administrative head city of a region.
+17587,university,a high-level educational institution in which students study for degrees and academic research is done.,hypernym,16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. "
+17592,settlement,a place where people establish a community.,hypernym,21816,agreement,"a contract by which one party conveys land, property, services, etc. to another for a specified time. "
+17600,park,"a large public garden in a town, used for recreation.",hypernym,15791,gear,apparatus or equipment
+17604,college,(in Britain) any of the independent institutions into which some universities are separated.,hypernym,16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. "
+17622,bathhouse,"a building for bathing, typically for public use.",hypernym,17038,house,a building for human habitation
+17682,action,a thing done.,hyponym,13941,arrival,the act of arriving
+17682,action,a thing done.,hyponym,23252,change,the process of changing
+17682,action,a thing done.,hyponym,23099,employment,application or use in a particular situation.
+17682,action,a thing done.,hyponym,23871,accomplishment,something that has been achieved successfully.
+17682,action,a thing done.,hyponym,22980,transgression,an act that defies moral precepts.
+17682,action,a thing done.,hyponym,23097,application,the action of putting something into operation.
+17687,activity,an action taken in pursuit of an objective,hyponym,20736,help,assistance
+17687,activity,an action taken in pursuit of an objective,hyponym,13857,pleasure,feeling of happy satisfaction and enjoyment.
+17687,activity,an action taken in pursuit of an objective,hyponym,25798,control,a subject or group of subjects in an experiment which are left untreated and are then compared with treated subjects in order to validate or invalidate a hypothesis
+17687,activity,an action taken in pursuit of an objective,hyponym,21171,dismantlement,the act of taking something apart.
+17687,activity,an action taken in pursuit of an objective,hyponym,13090,search,an act of searching. 
+17687,activity,an action taken in pursuit of an objective,hyponym,25002,enjoyment,Fn: pleasure
+17687,activity,an action taken in pursuit of an objective,hyponym,13191,negotiation,discussion with others to try to reach an agreement or compromise
+17687,activity,an action taken in pursuit of an objective,hyponym,18729,preparation,the act or process of making food ready for cooking and/or eating
+17687,activity,an action taken in pursuit of an objective,hyponym,15998,attempt,an act of attempting
+17687,activity,an action taken in pursuit of an objective,hyponym,22287,representation,"an image, model, or other depiction of something."
+17687,activity,an action taken in pursuit of an objective,hyponym,25772,operation,a set of military actions carried out with a certain goal or goals.
+17687,activity,an action taken in pursuit of an objective,hyponym,24667,work,activity involving mental or physical effort done in order to achieve a result.
+17687,activity,an action taken in pursuit of an objective,hyponym,21586,conduct,the manner in which a person behaves
+17687,activity,an action taken in pursuit of an objective,hyponym,20288,operation,a business organization; a company. 
+17687,activity,an action taken in pursuit of an objective,hyponym,22377,buzz,"a low, continuous humming or murmuring sound, made by or similar to that made by an insect"
+17687,activity,an action taken in pursuit of an objective,hyponym,18999,creation,the action or process of creating
+17687,activity,an action taken in pursuit of an objective,hyponym,25900,use,the action of using or state of being use; a purpose or way in which something can be used.
+17687,activity,an action taken in pursuit of an objective,hyponym,20564,practice,the customary or expected procedure or way of doing something. 
+17687,activity,an action taken in pursuit of an objective,hyponym,23900,provision,a condition or requirement in a legal document.
+24067,path,the direction in which a person or thing moves.,hypernym,25539,way,the trajectory that will lead a theme from some prior location to a desire or intended goal. 
+17756,avenue,"a broad road or path, especially one lined with trees. ",hypernym,24482,approach,a way of dealing with something.
+17757,artery,an important route in a traffic or transport system. ,hypernym,17781,thoroughfare,a road or path forming a route between two places. 
+24065,course,"the route or direction followed by a ship, aircraft, road, or river",hypernym,25138,series,entities placed in some temporal order
+24065,course,"the route or direction followed by a ship, aircraft, road, or river",hyponym,23930,current,the flow of electrons providing power to electrical devices.
+17773,lane,"a narrow road, especially in a rural area. ",hypernym,25539,way,the trajectory that will lead a theme from some prior location to a desire or intended goal. 
+17781,thoroughfare,a road or path forming a route between two places. ,hyponym,17757,artery,an important route in a traffic or transport system. 
+17799,junkie,a drug addict,hypernym,17793,addict,a person who is addicted to something
+17793,addict,a person who is addicted to something,hyponym,17799,junkie,a drug addict
+19808,trip,"a journey or excursion, especially for pleasure.",hyponym,19809,junket," an extravagant trip, especially one by an official at public expense"
+19808,trip,"a journey or excursion, especially for pleasure.",hyponym,22602,flight,a stair between floors/landings usually forming part of a larger stair .
+17851,score,a group or set of twenty,hypernym,15640,set,a group or collection of things belonging or used together or resembling one another
+17883,excoriation,censure or severe criticism,hypernym,17930,denouncement,the public declaration of something or someone as wrong.
+17889,deprecation,an expression of disapproval,hypernym,17936,disparagement,the action of representing something as low quality.
+17892,execration,cursing or denouncing somebody,hypernym,21651,object,a goal or purpose
+17923,criticism,the expression of disapproval of someone or something based on perceived faults or mistakes.,hyponym,12993,stricture, a sternly critical remark
+17923,criticism,the expression of disapproval of someone or something based on perceived faults or mistakes.,hyponym,17964,attack,"the act of blaming, abusing, or criticizing vehemently"
+17930,denouncement,the public declaration of something or someone as wrong.,hyponym,17883,excoriation,censure or severe criticism
+17930,denouncement,the public declaration of something or someone as wrong.,hyponym,12972,damnation,condemnation to eternal punishment in hell
+17936,disparagement,the action of representing something as low quality.,hypernym,12975,disapproval,the act or state of disapproving
+17936,disparagement,the action of representing something as low quality.,hyponym,17889,deprecation,an expression of disapproval
+21466,assault,"an act that threatens physical harm to a person, whether or not actual harm is done.",hyponym,19331,storm,"a violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow. "
+21466,assault,"an act that threatens physical harm to a person, whether or not actual harm is done.",part_holonym,21286,attack, an instance of attacking.
+17964,attack,"the act of blaming, abusing, or criticizing vehemently",hypernym,17923,criticism,the expression of disapproval of someone or something based on perceived faults or mistakes.
+18109,hour,a period of time equal to a twenty-fourth part of a day and night and divided into 60 minutes,hypernym,15079,period,a length or portion of time. 
+18111,second,"a sixtieth of a minute of time, which as the SI unit of time is defined in terms of the natural periodicity of the radiation of a caesium-133 atom",hypernym,23612,rank,a level within a hierarchy of merit
+18060,day,"a twenty-four-hour period as a unit of time, reckoned from one midnight to the next and corresponding to a rotation of the earth on its axis",hypernym,15079,period,a length or portion of time. 
+25170,day,a period of time in an entity' s past,hypernym,25171,time,an indefinite period of time
+18087,year,"the period of 365 days (or 366 days in leap years) starting from the first of January, used for reckoning time in ordinary affairs",hypernym,15079,period,a length or portion of time. 
+25160,time,a particular instance of the occurence of an event.,hypernym,16305,instance,a particular case
+25171,time,an indefinite period of time,hypernym,15079,period,a length or portion of time. 
+25171,time,an indefinite period of time,hyponym,25170,day,a period of time in an entity' s past
+25167,time,a particular moment in time,hyponym,25166,occasion,an instance of an event.
+18066,dawn,the first appearance of light in the sky before sunrise,hypernym,23759,start,the beginning.
+18081,evening,"the period of time at the end of the day, between late afternoon and bedtime",hypernym,15079,period,a length or portion of time. 
+18083,night,the time from sunset to sunrise,hypernym,15079,period,a length or portion of time. 
+22610,age,the length of time that a person or thing has existed.,part_holonym,19455,life,"The state of an organism in which its biological processes are in normal operation, including metabolism and (for higher organisms) the nervous system, blood circulation, respiration, etc."
+24487,process,a series of actions or steps towards achieving a particular end.,hyponym,19541,evolution,the gradual development of an entity
+22828,cold,"low temperature, usually below freezing.",hypernym,22826,temperature,the degree of heat of outside air
+25027,shock,Fn: the state of surprise,hypernym,25028,surprise,the occurence of something unexpected
+24098,condition,"the state of something or someone, with regard to appearance, fitness, or working order.",hypernym,25529,state,general descriptive term of a phase of matter. 
+25856,disorder,a state of chaos or confusion,antonym,25857,order,a state of non-confusion; the opposite of chaos
+25856,disorder,a state of chaos or confusion,hypernym,25529,state,general descriptive term of a phase of matter. 
+18360,confinement,the action of forcing or keeping withing a contained area.,hyponym,24163,commitment,the act of sending to a psychiatric hospital
+18360,confinement,the action of forcing or keeping withing a contained area.,hypernym,25693,restraint,the act of restraining or holding back
+18364,constraint,something that forcibly confines (someone or something),hyponym,21203,bond, physical restraints used to hold someone prisoner.
+18364,constraint,something that forcibly confines (someone or something),hyponym,25454,brake,a device that is used to slow down or stop a moving vehicule. 
+21651,object,a goal or purpose,hyponym,29806,love,a person or thing that one loves
+21651,object,a goal or purpose,hyponym,13860,antipathy,a deep-seated feeling of aversion
+21651,object,a goal or purpose,hyponym,17892,execration,cursing or denouncing somebody
+18380,thing,an individuable object.,hyponym,25458,part,a component of a vehicle that has a distinct function
+18380,thing,an individuable object.,hyponym,22475,variable,an uncertain fact that something else depends on.
+18464,midwifery,the thechniques and practice of a person trained to assist women in childbirth,hypernym,23508,delivery,"the action of delivering something, especially letters or goods."
+18714,distribution,the fact of handing or sharing out  to a number of recipients.,hyponym,20746,assignment,a task or duty assigned to someone
+18822,breath,an inhalation or exhalation of air from the lungs. ,hyponym,18826,exhalation,air expelled by breathing out.
+18825,sigh," a long, deep, audible exhalation expressing sadness, tiredness, relief, etc. ",hypernym,22451,sound,a thing that can be heard.
+18826,exhalation,air expelled by breathing out.,hypernym,18822,breath,an inhalation or exhalation of air from the lungs. 
+18868,evasion,the act of eluding capture or a person intending to capture,hyponym,23388,dodge,an instance of dodging
+18903,poultry,".mass noun chickens, turkeys, ducks, and geese; domestic fowl. ",hypernym,21452,bird,an aircraft.
+18915,butter,mass noun a pale yellow edible fatty substance made by churning cream and used as a spread or in cooking. ,hypernym,25608,fighter,a combatant.
+18921,herb,"any plant with leaves, seeds, or flowers used for flavouring, food, medicine, or perfume. ",hyponym,18924,basil,"an aromatic plant of the mint family, native to tropical Asia, used as a culinary herb. "
+18924,basil,"an aromatic plant of the mint family, native to tropical Asia, used as a culinary herb. ",hypernym,18921,herb,"any plant with leaves, seeds, or flowers used for flavouring, food, medicine, or perfume. "
+22408,peal,"a loud sound or succession of sounds, especially of bells or laughter",hypernym,22451,sound,a thing that can be heard.
+18951,dressing,"also salad dressing mass noun a sauce for salads, usually consisting of oil and vinegar with herbs or other flavourings. ",hyponym,24570,investment,the act or process of laying siege to.
+18999,creation,the action or process of creating,hypernym,17687,activity,an action taken in pursuit of an objective
+18999,creation,the action or process of creating,hyponym,19007,production,creation
+20284,establishment,"a business organization, public institution, or household",hyponym,24112,institution,"an organization founded for a religious, educational, or social purpose."
+25253,product,a number that results from multiplication,hyponym,23457,paper,"a physical entity, usually in sheet form, made out of wood pulp or other fibrious material normally used for written or printed communication"
+25253,product,a number that results from multiplication,hyponym,25196,work,the product or result of one' s effort.
+25253,product,a number that results from multiplication,hyponym,25787,book,the records of the accounts of a business (usually plural); any other binded pages which contain recorded data
+19007,production,creation,hypernym,18999,creation,the action or process of creating
+25197,output,the results of work on a task or project,hyponym,19925,pick,a selected option
+19009,synthesis,the production of chemical compounds by reaction from simpler materials.,hypernym,19431,reasoning,an explanation 
+20742,task,a piece of work. ,hypernym,20740,duty,a moral or legal obligation; a task required as part of one' s job. 
+20742,task,a piece of work. ,hyponym,19040,stint,an allotted period of work. 
+19040,stint,an allotted period of work. ,hypernym,20742,task,a piece of work. 
+25900,use,the action of using or state of being use; a purpose or way in which something can be used.,hyponym,21657,application,practical use or relevance
+25900,use,the action of using or state of being use; a purpose or way in which something can be used.,hyponym,22539,practice,a session of practising
+25900,use,the action of using or state of being use; a purpose or way in which something can be used.,hypernym,17687,activity,an action taken in pursuit of an objective
+21312,fire,attack by projectile weapons.,hypernym,21286,attack, an instance of attacking.
+19186,diary,1. a book in which one keeps a daily record of events and experiences. ,hypernym,25790,journal,a book in which data is kept
+19187,drama,a play. ,hypernym,17176,episode,an occurance 
+19192,essay,1. a piece of writing on a particular subject.,hypernym,15998,attempt,an act of attempting
+19202,mystery,"a novel, play, or film dealing with a puzzling crime. ",hypernym,13550,perplexity,the state of being puzzled or perplexed.
+19211,song,a short poem or other set of words set to music. ,hypernym,22451,sound,a thing that can be heard.
+19228,account,1. a description of an event or experience.,hypernym,21018,importance,the state or quality of being important
+25790,journal,a book in which data is kept,hyponym,19186,diary,1. a book in which one keeps a daily record of events and experiences. 
+23457,paper,"a physical entity, usually in sheet form, made out of wood pulp or other fibrious material normally used for written or printed communication",hypernym,25253,product,a number that results from multiplication
+23542,material,the matter from which a thing is or can be made,hypernym,23532,equipment,the process of supplying needed resources
+19567,issuance,an instance of making a provision known or accepted. ,hypernym,23900,provision,a condition or requirement in a legal document.
+25641,publication,making a work (generally a written text) publicly available.,hypernym,13177,communication,the action of communicating
+19455,life,"The state of an organism in which its biological processes are in normal operation, including metabolism and (for higher organisms) the nervous system, blood circulation, respiration, etc.",hypernym,15079,period,a length or portion of time. 
+19455,life,"The state of an organism in which its biological processes are in normal operation, including metabolism and (for higher organisms) the nervous system, blood circulation, respiration, etc.",part_meronym,22610,age,the length of time that a person or thing has existed.
+19264,life,a biographical account of a person' s experiences and actions,hypernym,16491,experience,knowledge or skill acquired over time
+19268,make-up,cosmetics such as lipstick or powder applied to the face,hypernym,17175,event,a thing that happens or takes place.
+19284,jam,informal an awkward situation or predicament:                                            I' m in a jam.,hypernym,20504,difficulty,to state of being hard to deal with
+19286,plight,"a dangerous, difficult, or otherwise unfortunate situation. ",hypernym,20504,difficulty,to state of being hard to deal with
+26224,confirmation,the act or instance of confirming ,hypernym,24061,info,short for information.
+19297,communion,the service of Christian worship at which bread and wine are consecrated and shared; the Eucharist,hypernym,26174,intercourse,A sexual act
+21727,approval, the action of approving of something.,hyponym,24196,acceptance,the act of giving a favorable response
+21727,approval, the action of approving of something.,antonym,12975,disapproval,the act or state of disapproving
+19303,rite,a religious or other solemn ceremony or act,hyponym,22113,betrothal,the promising of one person to wed another.
+19303,rite,a religious or other solemn ceremony or act,hyponym,22118,marriage,"the formal union of a man and a woman, typically as recognized by law, by which they become husband and wife."
+19304,ritual,a religious or solemn ceremony involving a series of actions performed according to a prescribed order. ,hypernym,20564,practice,the customary or expected procedure or way of doing something. 
+19304,ritual,a religious or solemn ceremony involving a series of actions performed according to a prescribed order. ,hyponym,16911,ablution,formal &or. humorous an act of washing. 
+19311,confession,a formal admission of one' s sins privately to a priest. ,hypernym,13379,declaration,a formal or explicit statement or announcement
+19330,blizzard,a severe snowstorm with high winds. ,hypernym,25138,series,entities placed in some temporal order
+19331,storm,"a violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow. ",hypernym,21466,assault,"an act that threatens physical harm to a person, whether or not actual harm is done."
+19431,reasoning,an explanation ,hyponym,19009,synthesis,the production of chemical compounds by reaction from simpler materials.
+19450,living,the human beings who are alive,antonym,19451,dead,those human beings who are dead
+19451,dead,those human beings who are dead,antonym,19450,living,the human beings who are alive
+25135,formation,an arrangement of entities forming a recognizable shape,hypernym,22513,arrangement,"the action, process, or result of arranging."
+25135,formation,an arrangement of entities forming a recognizable shape,hyponym,24334,flight,the act of leaving a place suddenly
+19589,worker,a person who works.,hyponym,24316,poster,a mass-produced piece of art (often a reproduction of a painting or photograph) printed on a large piece of thick paper and designed to be put on a wall.
+19589,worker,a person who works.,hyponym,21780,assistant,a person who ranks below a senior person.
+19589,worker,a person who works.,hyponym,22927,driver,one who is paid to operate a motor vehicle
+19614,termination,ending the employment of a person,hypernym,18137,end,The final point in a process.
+19627,exterior,the outer surface or structure of something. ,antonym,19628,inside,the inner side or surface of a thing
+19628,inside,the inner side or surface of a thing,antonym,19627,exterior,the outer surface or structure of something. 
+23751,middle,a middle point or position.,antonym,23757,beginning,the first part of something.
+23751,middle,a middle point or position.,antonym,23756,end,a final part of something.
+25617,plate,plate armor.,hyponym,16434,shoe,a covering for the foot having a sturdy sole and not reaching above the ankle. 
+25617,plate,plate armor.,hypernym,24224,shield,a person or thing providing protection
+19633,surface,the outside part or uppermost layer of something.,hyponym,16890,mitre,"a tall headdress worn by bishops and senior abbots, tapering to a point at front and back with a deep cleft between. [Eccl] "
+19633,surface,the outside part or uppermost layer of something.,hyponym,19623,skin,the peel or outer layer of a fruit or vegetable or a thin outermost layer
+19636,sheet,"a flat , frequently rectangular portion of a substance",hyponym,21243,board,"A long, flat object manufactured for multipurpose use, generally made of wood or particle board and utilized in construction. Other kinds of boards include those for extreme sports, such as snowboards, etc."
+19639,stick,"a long, thin object or piece of something",hypernym,15777,implement,"a tool, utensil, or other piece of equipment, used for a particular purpose. "
+19640,strip,"a long, narrow piece of cloth, paper, etc. ",hypernym,25458,part,a component of a vehicle that has a distinct function
+19640,strip,"a long, narrow piece of cloth, paper, etc. ",hyponym,19651,row,a line (often occurring adjacent to other rows)
+19641,stretch,a continuous expanse,hypernym,19643,expanse,"a wide continuous area of something, typically land or sea. "
+19643,expanse,"a wide continuous area of something, typically land or sea. ",hyponym,19641,stretch,a continuous expanse
+19658,border,a line separating two countries or other areas.,hypernym,19662,edge,"COD:.the outside limit of an object, area, or surface. "
+19662,edge,"COD:.the outside limit of an object, area, or surface. ",hyponym,19658,border,a line separating two countries or other areas.
+19782,adequacy,the quality of being just satisfactory or adequate,antonym,19783,inadequacy,a lack of the quality or quantity required; insufficiency
+19783,inadequacy,a lack of the quality or quantity required; insufficiency,antonym,19782,adequacy,the quality of being just satisfactory or adequate
+19809,junket," an extravagant trip, especially one by an official at public expense",hypernym,19808,trip,"a journey or excursion, especially for pleasure."
+24881,choice,a possibility that one can select,hyponym,24880,way,option
+19923,selection,"the action or fact of selecting, or a number of selected things, or a range of things from which a choice may be made. ",hypernym,24685,assortment,a miscellaneous collection.
+19925,pick,a selected option,hypernym,25197,output,the results of work on a task or project
+20004,gem,thing that is highly desirable.,hypernym,23515,art,"the expression or application of creative skill and imagination, especially through a visual medium such as painting or sculpture."
+20058,incompatibility,the state of not being able to exist or be used together,antonym,20059,compatibility,the state of being able to exist or be used together
+20059,compatibility,the state of being able to exist or be used together,antonym,20058,incompatibility,the state of not being able to exist or be used together
+20059,compatibility,the state of being able to exist or be used together,hyponym,23625,accord,"an official agreement
+
+
+"
+20274,recreation,enjoyable leisure activity.,hypernym,24136,rejuvenation,the act of making younger or more vital
+20277,rest,being in the state of not working,hyponym,25473,laziness,the quality or condition of being lazy
+20282,business,a commercial organization,hyponym,23240,trade,a transfer; an exchange.
+20564,practice,the customary or expected procedure or way of doing something. ,hypernym,17687,activity,an action taken in pursuit of an objective
+20564,practice,the customary or expected procedure or way of doing something. ,hyponym,21191,cooperation,the action or process of cooperating.
+20564,practice,the customary or expected procedure or way of doing something. ,hyponym,19304,ritual,a religious or solemn ceremony involving a series of actions performed according to a prescribed order. 
+22539,practice,a session of practising,hypernym,25900,use,the action of using or state of being use; a purpose or way in which something can be used.
+20288,operation,a business organization; a company. ,hypernym,17687,activity,an action taken in pursuit of an objective
+24481,procedure,a series of actions conducted in a certain order or manner.,hypernym,24667,work,activity involving mental or physical effort done in order to achieve a result.
+25772,operation,a set of military actions carried out with a certain goal or goals.,hypernym,17687,activity,an action taken in pursuit of an objective
+23830,stock,a supply of goods or materials available for sale or use,hypernym,23771,accumulation,Gathered to one location
+23780,bank,the land alongside or sloping down to a river or lake.,hypernym,17413,ridge,"a long narrow hilltop, mountain range, or watershed"
+20317,aspiration,a hope or ambition. ,hypernym,20331,ambition,"the hope of accompllishing some goal, often over a long time, and involving considerable effort."
+20331,ambition,"the hope of accompllishing some goal, often over a long time, and involving considerable effort.",hyponym,20317,aspiration,a hope or ambition. 
+20504,difficulty,to state of being hard to deal with,hyponym,22598,wall,a side of a building or room
+20504,difficulty,to state of being hard to deal with,hyponym,19286,plight,"a dangerous, difficult, or otherwise unfortunate situation. "
+20504,difficulty,to state of being hard to deal with,hyponym,19280,pinch,a difficult situation
+20504,difficulty,to state of being hard to deal with,hyponym,19284,jam,informal an awkward situation or predicament:                                            I' m in a jam.
+20528,peril,a situation of serious and immediate danger. ,hypernym,23973,danger,the possibility of suffering harm or injury.
+20563,custom,"a traditional and widely accepted way of behaving or doing something that is specific to a particular society, place, or time. ",hypernym,23240,trade,a transfer; an exchange.
+23626,convention,"an agreement between states, especially one less formal than a treaty.  ",hyponym,16033,conformity,"compliance with conventions, rules, or laws."
+20660,toke,"a pull on a cigarette or pipe, typically one containing cannabis. ",hypernym,20659,drag,an act of inhaling smoke from a cigarette. 
+20678,joint,prison.,hypernym,24734,conjunction,an instance of two or more events occurring at the same point in time or space.
+24058,dope,information.,hypernym,24063,details,specific information
+20706,crack,a potent hard crystalline form of cocaine broken into small pieces.,hypernym,20757,blemish,a small mark or flaw which spoils the appearance of something. 
+20736,help,assistance,hypernym,17687,activity,an action taken in pursuit of an objective
+21780,assistant,a person who ranks below a senior person.,hypernym,19589,worker,a person who works.
+21780,assistant,a person who ranks below a senior person.,hyponym,25413,secretary,"the person in charge of a subsection of the government, i.e. the Secretary of Defense"
+20740,duty,a moral or legal obligation; a task required as part of one' s job. ,hypernym,24667,work,activity involving mental or physical effort done in order to achieve a result.
+20740,duty,a moral or legal obligation; a task required as part of one' s job. ,hyponym,20742,task,a piece of work. 
+20744,obligation,an act or course of action to which a person is morally or legally bound,hypernym,25529,state,general descriptive term of a phase of matter. 
+20746,assignment,a task or duty assigned to someone,hypernym,18714,distribution,the fact of handing or sharing out  to a number of recipients.
+20757,blemish,a small mark or flaw which spoils the appearance of something. ,hyponym,17399,burn,a small stream. (Scottish English)
+20757,blemish,a small mark or flaw which spoils the appearance of something. ,hyponym,16628,chip,"a small, thin piece removed in the course of chopping, cutting, or breaking a hard material"
+20757,blemish,a small mark or flaw which spoils the appearance of something. ,hyponym,12991,stigma,"a mark of disgrace associated with a particular circumstance, quality, or person."
+20757,blemish,a small mark or flaw which spoils the appearance of something. ,hyponym,20706,crack,a potent hard crystalline form of cocaine broken into small pieces.
+20762,blister,"a small bubble on the skin filled with serum and typically caused by friction or burning or a similar swelling, filled with air or fluid, on a surface. ",hypernym,12984,fault,an unattractive or unsatisfactory feature
+21533,dissimilarity,the state of being not similar or different from something,hypernym,25261,difference,the remainder left after subtraction of one value from another
+22790,membership,the body of members,hypernym,16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. "
+20994,performance,"an act of performing a play, concert, or other form of entertainment.",hyponym,12824,interpretation,explanation; the act or result of interpreting
+20994,performance,"an act of performing a play, concert, or other form of entertainment.",hypernym,25586,demonstration,public display and expression of support of or opposition to an issue.
+21018,importance,the state or quality of being important,hypernym,22172,value,the usefulness of an Entity with respect to some Purpose.  
+21018,importance,the state or quality of being important,hyponym,25365,significance,characterization of whether an event occurs randomly
+21018,importance,the state or quality of being important,hyponym,19228,account,1. a description of an event or experience.
+25365,significance,characterization of whether an event occurs randomly,hypernym,21018,importance,the state or quality of being important
+25365,significance,characterization of whether an event occurs randomly,hyponym,25921,consequence,result of
+25733,capture,the event of taking someone or something captive.,hyponym,16177,abduction,the action or condition of being taken away illegally by force or deception.
+21096,co-star,a performer appearing with another or others of equal importance. ,hypernym,21095,star,an important performer
+21161,destruction,an event of destroying,hyponym,21868,annihilation,"killing, esp. of people"
+21868,annihilation,"killing, esp. of people",hypernym,21161,destruction,an event of destroying
+21171,dismantlement,the act of taking something apart.,antonym,21044,fabrication,"construction or manufacturing  of an industrial product, especially from prepared components"
+21171,dismantlement,the act of taking something apart.,hypernym,17687,activity,an action taken in pursuit of an objective
+21171,dismantlement,the act of taking something apart.,antonym,15631,assemblage,a collection or gathering
+21188,collusion,secret or illegal cooperation in order to cheat or deceive others,hypernym,23623,agreement, negotiated and typically legally binding arrangement.
+21191,cooperation,the action or process of cooperating.,hypernym,20564,practice,the customary or expected procedure or way of doing something. 
+25453,wheel,the part of the vehicule which holds a tire. ,hypernym,16891,helm,a helmet.
+21243,board,"A long, flat object manufactured for multipurpose use, generally made of wood or particle board and utilized in construction. Other kinds of boards include those for extreme sports, such as snowboards, etc.",hypernym,19636,sheet,"a flat , frequently rectangular portion of a substance"
+21288,incursion," an invasion or attack, especially a sudden or brief one.",hypernym,13945,entrance,an act of entering
+21292,onslaught, a fierce or destructive attack.,hypernym,19289,trouble,difficulty or problems. 
+21402,indication,a sign or symptom,hyponym,26698,clue,"(with negation or question, usually with ""have"") knowledge."
+21402,indication,a sign or symptom,hyponym,12913,evidence, information indicating whether a belief or proposition is true or valid. 
+21402,indication,a sign or symptom,hypernym,13177,communication,the action of communicating
+21402,indication,a sign or symptom,hyponym,25905,symptom,deviation from normal function
+25905,symptom,deviation from normal function,hypernym,21402,indication,a sign or symptom
+21446,vessel,a ship or large boat.  ,hyponym,14953,basin,"a large bowl or open container for washing in, preparing food, or holding liquid"
+21446,vessel,a ship or large boat.  ,hyponym,16748,bowl,"the volume contained by a round, deep dish or basin"
+21446,vessel,a ship or large boat.  ,hyponym,14946,tin,"a container made of tinplate or aluminium, typically used for baking or storing"
+21446,vessel,a ship or large boat.  ,hyponym,16741,bottle,"the volume of a container with a narrow neck, used for storing liquids"
+21446,vessel,a ship or large boat.  ,part_meronym,22590,brim,the (sometimes projecting) edge or rim of a hollow vessel.
+21446,vessel,a ship or large boat.  ,hyponym,15042,tub,"an open, flat-bottomed, usually round container"
+21452,bird,an aircraft.,hyponym,18903,poultry,".mass noun chickens, turkeys, ducks, and geese; domestic fowl. "
+21514,encumbrance,a burden or impediment.,hypernym,21513,impediment,a hindrance or obstruction. 
+21514,encumbrance,a burden or impediment.,hyponym,16436,clog,a shoe with a thick wooden sole. 
+21513,impediment,a hindrance or obstruction. ,hyponym,25820,blockade,an act of preventing access to an area.
+21513,impediment,a hindrance or obstruction. ,hyponym,21514,encumbrance,a burden or impediment.
+21513,impediment,a hindrance or obstruction. ,hyponym,16738,block,one city street length
+21521,hardship,a difficulty or challenge,hypernym,19287,misfortune,an unfortunate event. 
+25693,restraint,the act of restraining or holding back,hypernym,25798,control,a subject or group of subjects in an experiment which are left untreated and are then compared with treated subjects in order to validate or invalidate a hypothesis
+25693,restraint,the act of restraining or holding back,hyponym,18360,confinement,the action of forcing or keeping withing a contained area.
+21526,restraint,the state or fact of being restrained,hypernym,25897,limitation,a limit.
+21542,like,a person or thing that is similar to a familiar one,hypernym,16250,kind,a class or type of people or things having similar characteristics
+25261,difference,the remainder left after subtraction of one value from another,hyponym,21533,dissimilarity,the state of being not similar or different from something
+25261,difference,the remainder left after subtraction of one value from another,hyponym,21556,distinction,a marked difference or contrast.
+21556,distinction,a marked difference or contrast.,hypernym,25261,difference,the remainder left after subtraction of one value from another
+22433,squeal,"a long, high-pitched cry or noise",hypernym,24583,howl,a long doleful cry uttered by an animal such as a dog.
+21595,bearing,"a person' s way of standing, moving, or behaving.",hypernym,25536,manner,the way in which an action is conducted by an agent. 
+21591,misbehavior,bad behavior,hyponym,22981,peccadillo,a minor sin or fault.
+25536,manner,the way in which an action is conducted by an agent. ,hyponym,21595,bearing,"a person' s way of standing, moving, or behaving."
+26698,clue,"(with negation or question, usually with ""have"") knowledge.",hypernym,21402,indication,a sign or symptom
+21657,application,practical use or relevance,hypernym,25900,use,the action of using or state of being use; a purpose or way in which something can be used.
+23097,application,the action of putting something into operation.,hypernym,17682,action,a thing done.
+21721,appraisal,"an assessment of someone or something, especially the performance of an employee.",hypernym,23861,estimate,an approximate calculation or judgement.
+21751,prohibition,the action of prohibiting. ,hyponym,21750,ban,an official or legal prohibition. 
+21750,ban,an official or legal prohibition. ,hypernym,21751,prohibition,the action of prohibiting. 
+26241,summons,an official call or citation to appear before a court,hypernym,25836,order,a request for something to be served
+23623,agreement, negotiated and typically legally binding arrangement.,hyponym,21188,collusion,secret or illegal cooperation in order to cheat or deceive others
+23807,agreement,"accordance in opinion or feeling.
+",antonym,22055,disagreement,a quarrel.
+21820,deposition,a statement to be used as evidence.,hypernym,14749,ouster,"A situation in which a person holding some office is removed from that office abruptly. This term usually implies that regular proceedure is not followed, and some degree of force or coercion is used. Takes the FE Old_leader in a PP[of]."
+21825,testimony," a formal statement, especially one given in a court of law",hypernym,13365,assertion,the act of asserting
+23625,accord,"an official agreement
+
+
+",hypernym,20059,compatibility,the state of being able to exist or be used together
+22010,modification, the action of modifying.,hypernym,12577,copy,a thing made to be similar or identical to another. 
+22011,alteration,the process of making something different without changing its category,hypernym,23252,change,the process of changing
+26214,conversion,"transformation, usually such that the resultant entity corresponds to its former category in a particular way.",hypernym,23252,change,the process of changing
+26214,conversion,"transformation, usually such that the resultant entity corresponds to its former category in a particular way.",hyponym,26211,transmutation,turn into something else surprisingly different.
+22602,flight,a stair between floors/landings usually forming part of a larger stair .,hypernym,19808,trip,"a journey or excursion, especially for pleasure."
+24334,flight,the act of leaving a place suddenly,hypernym,25135,formation,an arrangement of entities forming a recognizable shape
+22041,delay,a period of time by which something is late or postponed.,hyponym,24699,interruption,the ceasing of a process by an event.
+22055,disagreement,a quarrel.,antonym,23807,agreement,"accordance in opinion or feeling.
+"
+22088,admonition,warning about something that (the addressed individual) will probably do wrong.,hyponym,27222,lesson,"a unit of teaching activity or text, either for a single class period or pertaining to specific material to be learned together"
+22113,betrothal,the promising of one person to wed another.,hypernym,19303,rite,a religious or other solemn ceremony or act
+22172,value,the usefulness of an Entity with respect to some Purpose.  ,hyponym,15168,cost,the amount that something costs.
+22172,value,the usefulness of an Entity with respect to some Purpose.  ,hyponym,21018,importance,the state or quality of being important
+22203,quiet,"the state of being silent. Often occurs with verbs (keeping, remaining, staying).",hypernym,25857,order,a state of non-confusion; the opposite of chaos
+22214,assurance,a positive declaration intended to give confidence,hypernym,13409,statement,a definite or clear expression of something in speech or writing 
+22287,representation,"an image, model, or other depiction of something.",hyponym,25274,model,a member of a category other members (should) strive to be similar to
+22287,representation,"an image, model, or other depiction of something.",hypernym,17687,activity,an action taken in pursuit of an objective
+24612,loss,"money spent by a company, cutting into profit.",antonym,15285,gain,an increase (in wealth or resources).
+24612,loss,"money spent by a company, cutting into profit.",hypernym,25622,amount,a quantity
+22368,bark,"the sharp explosive cry of a dog, fox, or seal.",hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22373,bleat,"a weak, wavering cry made by, or similar to that made by a sheep or goat",hypernym,24582,cry,a distinctive call of a bird or other animal.  
+22375,bray,"the loud, harsh cry of a donkey.",hypernym,24582,cry,a distinctive call of a bird or other animal.  
+22377,buzz,"a low, continuous humming or murmuring sound, made by or similar to that made by an insect",hypernym,17687,activity,an action taken in pursuit of an objective
+22379,caw,"the harsh cry of a rook, crow, or similar bird.",hypernym,24582,cry,a distinctive call of a bird or other animal.  
+22380,chatter,a series of short quick high-pitched sounds,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22384,clack,a clacking sound,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22387,clatter,a loud rattling sound as of hard objects falling or striking each other.,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22388,click,"a short, sharp sound as of two metallic or plastic objects coming smartly into contact",hypernym,22451,sound,a thing that can be heard.
+22390,coo,a cooing sound.,hypernym,24582,cry,a distinctive call of a bird or other animal.  
+22392,creak,a creaking sound.,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22393,crunch,a crunching sound.,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22398,grunt,a grunting sound.,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22400,gurgle,a gurgling sound.,hypernym,22451,sound,a thing that can be heard.
+22406,neigh,a characteristic high whinnying sound made by a horse.,hypernym,24582,cry,a distinctive call of a bird or other animal.  
+22407,patter,a repeated light tapping.,hypernym,22451,sound,a thing that can be heard.
+22411,plop,"a short sound as of a small, solid object dropping into water without a splash. ",hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22412,plunk,a plunking sound.,hypernym,22451,sound,a thing that can be heard.
+22417,roar,"a full, deep, prolonged sound as made by a lion, natural force, or engine",hypernym,24582,cry,a distinctive call of a bird or other animal.  
+22418,rustle,a rustling sound.,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22421,scrunch,a loud crunching noise,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22422,sizzle,an instance or the sound of sizzling.,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22427,snore,a snorting or grunting sound in a person' s breathing while they are asleep.,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22434,thunder,a loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air.,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+22437,toll,a single ring of a bell,hypernym,22451,sound,a thing that can be heard.
+22443,whine,"a long, high-pitched unpleasant sound.",hypernym,24173,complaint,an act or the action of complaining
+22445,whistle,"a clear, high-pitched sound such as the one made by forcing breath through a small hole between partly closed lips, or between one' s teeth",hypernym,22451,sound,a thing that can be heard.
+22481,dependence,the state of relying on someone or something for financial or other support.,hypernym,25529,state,general descriptive term of a phase of matter. 
+22481,dependence,the state of relying on someone or something for financial or other support.,hyponym,22480,reliance,dependence on or trust in someone or something
+22474,factor,"a circumstance, fact, or influence that contributes to a result.",hyponym,23903,parameter,a limit or boundary which defines the scope of a particular process or activity.
+22475,variable,an uncertain fact that something else depends on.,hypernym,18380,thing,an individuable object.
+22480,reliance,dependence on or trust in someone or something,hypernym,22481,dependence,the state of relying on someone or something for financial or other support.
+22516,deployment,the arrangement (of troops or materiel) to make ready (for military action).,hypernym,18729,preparation,the act or process of making food ready for cooking and/or eating
+22568,rate,"the speed with which something moves, happens, or changes.",hyponym,22804,beat,"a regular, strongly punctuated pattern in music"
+22568,rate,"the speed with which something moves, happens, or changes.",hyponym,25477,sluggishness,the quality or condition of being sluggish
+22598,wall,a side of a building or room,hypernym,20504,difficulty,to state of being hard to deal with
+22667,grasp,a person' s understanding.,hyponym,16149,tentacle,"a long slender flexible appendage of an animal, used for grasping or moving about, or bearing sense organs."
+23515,art,"the expression or application of creative skill and imagination, especially through a visual medium such as painting or sculpture.",hyponym,20004,gem,thing that is highly desirable.
+23515,art,"the expression or application of creative skill and imagination, especially through a visual medium such as painting or sculpture.",hyponym,29804,dance,the expression or application of creative skill and imagination through body movement
+22695,ability,the capacity to do something.,hyponym,13917,sensitivity,the quality or condition of being sensitive to slight changes or influences
+22697,capability,power or ability to do something,hypernym,23975,susceptibility,a structural vulnerability; often impossible to defend against
+22698,capacity,the ability or power to do something.,antonym,22706,incapacity,the lack of ability or power to do something
+25482,power,the influence that an entity has over others,hypernym,25057,strength,"the quality or state of being strong, and/or the capability to resist great force"
+22706,incapacity,the lack of ability or power to do something,antonym,22698,capacity,the ability or power to do something.
+22729,reminder,a thing that causes someone to remember something.,hypernym,16491,experience,knowledge or skill acquired over time
+22804,beat,"a regular, strongly punctuated pattern in music",hypernym,22568,rate,"the speed with which something moves, happens, or changes."
+22826,temperature,the degree of heat of outside air,hyponym,22828,cold,"low temperature, usually below freezing."
+22834,politician,"a person who is professionally involved in politics, especially as a holder of an elected office",hyponym,25401,legislator,an elected official working in the legislature; one who makes the laws
+22927,driver,one who is paid to operate a motor vehicle,hypernym,19589,worker,a person who works.
+22944,inspiration,an event of sudden creativity,hyponym,15671,mother,a woman in relation to a child or children to whom she has given birth
+23694,impression,a level of esteem,hyponym,25286,image,An impression that a person has of something or someone
+23823,effect,(with in or into) the state or quality of being operational or effective.,hypernym,23710,belief,"an acceptance that something exists or is true, especially one without proof."
+22981,peccadillo,a minor sin or fault.,hypernym,21591,misbehavior,bad behavior
+25935,characteristic,sign of,hyponym,16886,badge,"a small piece of metal, plastic, or cloth bearing a design or words, typically worn to identify a person or to indicate support for a cause. "
+23105,participant,somebody who participates in an event,hyponym,13190,discussant,somebody who participates in a formal discussion
+23105,participant,somebody who participates in an event,hyponym,23110,player,a person that is involved and influential in an activity.
+23105,participant,somebody who participates in an event,hypernym,21184,associate,a partner or companion in business or at work
+23108,involvement,the state of participating in an event with multiple participants,hyponym,12765,comprehension,the action or capability of understanding.
+23240,trade,a transfer; an exchange.,hypernym,20282,business,a commercial organization
+23240,trade,a transfer; an exchange.,hyponym,20563,custom,"a traditional and widely accepted way of behaving or doing something that is specific to a particular society, place, or time. "
+25136,sequence,a temporal arrangement of entities,hyponym,22062,row,an acrimonious quarrel.
+23249,succession,the action or process by which an entity or state of affairs replaces another. ,hypernym,25138,series,entities placed in some temporal order
+23249,succession,the action or process by which an entity or state of affairs replaces another. ,hyponym,24131,cascade,"a succession of devices or stages in a process, each of which triggers or initiates the next."
+25137,succession,sequence,hypernym,25141,order,the arrangement or disposition of people or things according to a particular sequence or method.
+23252,change,the process of changing,hypernym,17682,action,a thing done.
+23252,change,the process of changing,hyponym,22011,alteration,the process of making something different without changing its category
+23252,change,the process of changing,hyponym,26214,conversion,"transformation, usually such that the resultant entity corresponds to its former category in a particular way."
+23332,renunciation,the action of renouncing.,hypernym,24197,rejection,the act of refusing a proposal by another
+23345,word,"a single distinct meaningful element of speech or writing, used to form sentences with others",hypernym,13409,statement,a definite or clear expression of something in speech or writing 
+23388,dodge,an instance of dodging,hypernym,18868,evasion,the act of eluding capture or a person intending to capture
+23473,defender,person who defends.,hypernym,25608,fighter,a combatant.
+23488,progression,sequence of change in accord with normal expectations.,hyponym,16010,push,strenuous effort to reach a goal.
+23488,progression,sequence of change in accord with normal expectations.,antonym,24274,retreat,"withdrawal from a difficult, exposed, or uncomfortable position"
+23479,advance,a development or improvement.,hypernym,23257,shift,a relatively sudden change. 
+23508,delivery,"the action of delivering something, especially letters or goods.",hyponym,18464,midwifery,the thechniques and practice of a person trained to assist women in childbirth
+23522,finance,"the management of money, especially with respect to governments and large companies.",hypernym,24528,management,the act of managing; direction or control
+23900,provision,a condition or requirement in a legal document.,hyponym,16324,stocking,"a woman' s garment that fits closely over the foot and leg, typically made of fine knitted nylon yarn, held up by suspenders or an elasticated strip at the upper thigh."
+23900,provision,a condition or requirement in a legal document.,hypernym,17687,activity,an action taken in pursuit of an objective
+23900,provision,a condition or requirement in a legal document.,hyponym,19567,issuance,an instance of making a provision known or accepted. 
+23586,league,"a collection of people, countries, or groups that combine for mutual protection or cooperation.",hypernym,23589,union,"a club, society, or association formed by people with a common interest or purpose."
+23589,union,"a club, society, or association formed by people with a common interest or purpose.",hyponym,23586,league,"a collection of people, countries, or groups that combine for mutual protection or cooperation."
+23612,rank,a level within a hierarchy of merit,hyponym,18111,second,"a sixtieth of a minute of time, which as the SI unit of time is defined in terms of the natural periodicity of the radiation of a caesium-133 atom"
+23612,rank,a level within a hierarchy of merit,hyponym,25621,level,An amount or quantity of substance.
+23612,rank,a level within a hierarchy of merit,hyponym,16595,hundredth,one of one hundred parts.
+23661,failure,an endeavor that does not succeed,hyponym,15503,error,
+23757,beginning,the first part of something.,antonym,23751,middle,a middle point or position.
+23757,beginning,the first part of something.,antonym,23756,end,a final part of something.
+23759,start,the beginning.,hyponym,18066,dawn,the first appearance of light in the sky before sunrise
+24300,turn,a change of direction,hyponym,26592,revolution,
+23765,infrastructure,"the basic facilities, installations, or other components needed for the operation of a system or organization",hypernym,17132,structure,a building
+23765,infrastructure,"the basic facilities, installations, or other components needed for the operation of a system or organization",part_holonym,15790,system,a complex machine whose parts are working together as a mechanism or interconnecting network
+23771,accumulation,Gathered to one location,hyponym,23830,stock,a supply of goods or materials available for sale or use
+23771,accumulation,Gathered to one location,hyponym,23834,reserve,a reserved supply of a commodity.
+23834,reserve,a reserved supply of a commodity.,hypernym,23771,accumulation,Gathered to one location
+23861,estimate,an approximate calculation or judgement.,hyponym,21721,appraisal,"an assessment of someone or something, especially the performance of an employee."
+23857,militia,"a military force composed of citizens, as opposed to professional full-time soldiers.",hypernym,16075,body,"the physical structure, including the bones, flesh, and organs, of a person or an animal. "
+23871,accomplishment,something that has been achieved successfully.,hypernym,17682,action,a thing done.
+23876,submission,the act of presenting (a proposal or application) for consideration or judgement.,hypernym,13378,contention,an assertion.
+23881,interception,the act of intercepting,hypernym,21678,prevention,the act of preventing
+23903,parameter,a limit or boundary which defines the scope of a particular process or activity.,hypernym,22474,factor,"a circumstance, fact, or influence that contributes to a result."
+23973,danger,the possibility of suffering harm or injury.,hyponym,20528,peril,a situation of serious and immediate danger. 
+25057,strength,"the quality or state of being strong, and/or the capability to resist great force",hyponym,25482,power,the influence that an entity has over others
+24000,ammunition, a supply or quantity of bullets and shells,hypernym,24061,info,short for information.
+24010,importation,the action of moving goods into an area.,hyponym,17143,smuggling,the act or instances of moving (goods) illegally into or out of a country
+24061,info,short for information.,hyponym,24063,details,specific information
+24061,info,short for information.,hyponym,26224,confirmation,the act or instance of confirming 
+24061,info,short for information.,hyponym,24000,ammunition, a supply or quantity of bullets and shells
+24063,details,specific information,hypernym,24061,info,short for information.
+24063,details,specific information,hyponym,24058,dope,information.
+24074,high,"a high point, level, or figure.",antonym,24075,low,"a low point, level or figure."
+24075,low,"a low point, level or figure.",antonym,24074,high,"a high point, level, or figure."
+24077,maximum,"the greatest amount, extent, or intensity possible or recorded.",hypernym,23785,peak,the pointed top of a mountain
+24112,institution,"an organization founded for a religious, educational, or social purpose.",hypernym,20284,establishment,"a business organization, public institution, or household"
+24133,web,a complex system of interconnected elements.,hyponym,17068,tent,"a portable shelter made of cloth, supported by one or more poles and stretched tight by cords attached to pegs driven into the ground."
+24136,rejuvenation,the act of making younger or more vital,hyponym,20274,recreation,enjoyable leisure activity.
+24173,complaint,an act or the action of complaining,hyponym,22443,whine,"a long, high-pitched unpleasant sound."
+24193,rebuff,an abrupt rejection.,hypernym,24197,rejection,the act of refusing a proposal by another
+24196,acceptance,the act of giving a favorable response,hypernym,21727,approval, the action of approving of something.
+24197,rejection,the act of refusing a proposal by another,hyponym,23332,renunciation,the action of renouncing.
+24197,rejection,the act of refusing a proposal by another,hyponym,24193,rebuff,an abrupt rejection.
+24224,shield,a person or thing providing protection,hyponym,25617,plate,plate armor.
+24274,retreat,"withdrawal from a difficult, exposed, or uncomfortable position",antonym,23488,progression,sequence of change in accord with normal expectations.
+24309,drawing,"a picture or diagram made with a pencil, pen, or crayon rather than paint, especially one drawn in monochrome",hyponym,24318,tracing,a drawing produced by copying the lines of an original image
+24316,poster,a mass-produced piece of art (often a reproduction of a painting or photograph) printed on a large piece of thick paper and designed to be put on a wall.,hypernym,19589,worker,a person who works.
+24318,tracing,a drawing produced by copying the lines of an original image,hypernym,24309,drawing,"a picture or diagram made with a pencil, pen, or crayon rather than paint, especially one drawn in monochrome"
+24643,capital,the governmental or administrative head city of a region.,hypernym,17575,center,a place or group of buildings where a specified activity is concentrated.
+24526,domination,"authority, rule or control over some entity or situation",hyponym,16494,mastery,the mastering of a subject or skill
+25798,control,a subject or group of subjects in an experiment which are left untreated and are then compared with treated subjects in order to validate or invalidate a hypothesis,hypernym,17687,activity,an action taken in pursuit of an objective
+25798,control,a subject or group of subjects in an experiment which are left untreated and are then compared with treated subjects in order to validate or invalidate a hypothesis,hyponym,25688,repression,"the act of repressing (desires, feelings, actions, etc.)"
+25798,control,a subject or group of subjects in an experiment which are left untreated and are then compared with treated subjects in order to validate or invalidate a hypothesis,hyponym,21479,possession,the criminal act of possessing an illegal item or items
+25798,control,a subject or group of subjects in an experiment which are left untreated and are then compared with treated subjects in order to validate or invalidate a hypothesis,hyponym,25693,restraint,the act of restraining or holding back
+24570,investment,the act or process of laying siege to.,hypernym,18951,dressing,"also salad dressing mass noun a sauce for salads, usually consisting of oil and vinegar with herbs or other flavourings. "
+24582,cry,a distinctive call of a bird or other animal.  ,hyponym,22379,caw,"the harsh cry of a rook, crow, or similar bird."
+24582,cry,a distinctive call of a bird or other animal.  ,hypernym,22451,sound,a thing that can be heard.
+24582,cry,a distinctive call of a bird or other animal.  ,hyponym,22375,bray,"the loud, harsh cry of a donkey."
+24582,cry,a distinctive call of a bird or other animal.  ,hyponym,22417,roar,"a full, deep, prolonged sound as made by a lion, natural force, or engine"
+24582,cry,a distinctive call of a bird or other animal.  ,hyponym,22390,coo,a cooing sound.
+24582,cry,a distinctive call of a bird or other animal.  ,hyponym,22406,neigh,a characteristic high whinnying sound made by a horse.
+24582,cry,a distinctive call of a bird or other animal.  ,hyponym,22373,bleat,"a weak, wavering cry made by, or similar to that made by a sheep or goat"
+24583,howl,a long doleful cry uttered by an animal such as a dog.,hyponym,22433,squeal,"a long, high-pitched cry or noise"
+24583,howl,a long doleful cry uttered by an animal such as a dog.,hypernym,22452,noise,"a sound, especially one that is loud, unpleasant, or disturbing."
+24623,stature,importance or reputation gained by ability or achievement.,hypernym,23692,esteem,level of respect 
+25498,style,a general form that an artwork resembles,hypernym,16250,kind,a class or type of people or things having similar characteristics
+24664,guest,a person who is invited to visit someone' s home or take part in a function.,hyponym,15003,overnighter,an overnight bag. 
+24674,homogeneity,the quality of being the same in character or content.,hypernym,24684,uniformity,the quality of being uniform.
+24684,uniformity,the quality of being uniform.,hyponym,24674,homogeneity,the quality of being the same in character or content.
+24734,conjunction,an instance of two or more events occurring at the same point in time or space.,hyponym,26100,contact,the state of having no separation (between two or more surfaces).
+24734,conjunction,an instance of two or more events occurring at the same point in time or space.,hyponym,20678,joint,prison.
+24779,past,a person' s or thing' s history or earlier life.,hypernym,15079,period,a length or portion of time. 
+24869,groundwork,preliminary or basic work.,hypernym,18729,preparation,the act or process of making food ready for cooking and/or eating
+25085,defeat,an instance of defeating or being defeated,hyponym,25088,rout,a decisive defeat.
+25088,rout,a decisive defeat.,hypernym,25085,defeat,an instance of defeating or being defeated
+25097,judgment,a decision ruled upon by a legal authority,hyponym,12867,conclusion,a judgement or decision reached by reasoning
+25138,series,entities placed in some temporal order,hyponym,19330,blizzard,a severe snowstorm with high winds. 
+25138,series,entities placed in some temporal order,hyponym,24065,course,"the route or direction followed by a ship, aircraft, road, or river"
+25138,series,entities placed in some temporal order,hyponym,23249,succession,the action or process by which an entity or state of affairs replaces another. 
+25166,occasion,an instance of an event.,hypernym,25167,time,a particular moment in time
+25250,addition,the process of combining two numbers,hypernym,15243,increase,a move up on a scale
+25254,times,multiples of an original quantity,hypernym,15079,period,a length or portion of time. 
+25274,model,a member of a category other members (should) strive to be similar to,hypernym,22287,representation,"an image, model, or other depiction of something."
+25454,brake,a device that is used to slow down or stop a moving vehicule. ,hypernym,18364,constraint,something that forcibly confines (someone or something)
+25455,engine,the component of the vehicule that provides the necessary power for the motion of the vehicule. ,hypernym,15781,instrument,"a tool or implement, especially for precision work"
+25471,intensity,the quality or condition of being intense,hyponym,23990,force,physical power or strength
+25473,laziness,the quality or condition of being lazy,hypernym,20277,rest,being in the state of not working
+25477,sluggishness,the quality or condition of being sluggish,hypernym,22568,rate,"the speed with which something moves, happens, or changes."
+25608,fighter,a combatant.,hyponym,18915,butter,mass noun a pale yellow edible fatty substance made by churning cream and used as a spread or in cooking. 
+25608,fighter,a combatant.,hyponym,23473,defender,person who defends.
+25770,hostile,an individual opposed to another side (especially in military contexts).,antonym,25769,friendly,a person sympathetic or aligned to another' s side (especially in military conflicts).
+25625,extent,"amount, usually of something that is not measured numerically.: I will help you to the extent that I can, but I can' t promise you that I will succeed. ",hyponym,15811,length,the measurement or extent of something from end to end; the greater or greatest of two or more dimensions of a body.
+25688,repression,"the act of repressing (desires, feelings, actions, etc.)",hypernym,25798,control,a subject or group of subjects in an experiment which are left untreated and are then compared with treated subjects in order to validate or invalidate a hypothesis
+25769,friendly,a person sympathetic or aligned to another' s side (especially in military conflicts).,antonym,25770,hostile,an individual opposed to another side (especially in military contexts).
+25786,booking,arrangement to receive a service at a particular time.,hypernym,23099,employment,application or use in a particular situation.
+25806,hypothesis,a conjecture which explains a phenomenon and can be tested by experimentation,hypernym,13395,proposal,a plan or suggestion
+25820,blockade,an act of preventing access to an area.,hypernym,21513,impediment,a hindrance or obstruction. 
+25843,genus,"one of the lowest-ranking taxonomic class, situated between Family and Species",hypernym,16250,kind,a class or type of people or things having similar characteristics
+25844,species,"a formal taxonomic class, subdivision of a genus; members of a species can interbreed, while members of different species usually cannot",hypernym,16250,kind,a class or type of people or things having similar characteristics
+25896,limit,the boundary of the capabilities or possibilities of something.,hyponym,23785,peak,the pointed top of a mountain
+25897,limitation,a limit.,hyponym,21526,restraint,the state or fact of being restrained
+25957,alert,a message to inform someone of danger; a warning.,hypernym,25956,warning,a message that informs someone of a potential danger.
+25956,warning,a message that informs someone of a potential danger.,hyponym,24447,threat,the possibility of trouble or danger.
+25956,warning,a message that informs someone of a potential danger.,hyponym,25957,alert,a message to inform someone of danger; a warning.
+26174,intercourse,A sexual act,hyponym,19297,communion,the service of Christian worship at which bread and wine are consecrated and shared; the Eucharist
+26182,sex,an act of physical intimacy that can lead to orgasm.,hypernym,16249,class,a category of things having some property in common and different from others by type or quality
+26211,transmutation,turn into something else surprisingly different.,hypernym,26214,conversion,"transformation, usually such that the resultant entity corresponds to its former category in a particular way."
+26266,deterioration,the process of becoming worse.,hypernym,26267,decline,process of becoming worse.
+26270,co-worker,fellow worker; someone who works for the same company or institution.,hypernym,21184,associate,a partner or companion in business or at work
+29806,love,a person or thing that one loves,hypernym,21651,object,a goal or purpose
