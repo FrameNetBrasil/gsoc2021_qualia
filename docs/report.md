@@ -45,3 +45,23 @@
 - It's only English nouns so far
 - I haven't yet tried multiple candidates for each LU
 - Further discussion on whether the extracted relations resemble the desired result is due
+
+## Weeks 6-9
+
+- Further development and finalization of the FnSenseMapper tool
+
+  - Added (and utilized) an option to generate multiple candidates for each LU
+  - Added similarity threshold filtration
+  - Added partial ratio (of distance between strings) between names of FN and BN entries
+  - Added of list of BN relations that definitely can't interpreted as qualia relations as a result of further analysis
+
+## Week 10-12
+- Development of the UI tool
+
+  - Created the annotation screen
+  - Added SQLite to persist annotations
+  - Added screens to view annotations and relations
+  - Added an option to reset current annotations
+  - Added an option to reset all data (to be able to load some other relations to annotate)
+  - Add an option to annotate a specific relation by clicking in annotation/relation screens
+  - Added navigation bar
