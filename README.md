@@ -7,7 +7,7 @@
 The first component of this project is a [tool](https://github.com/slowwavesleep/BabelNetExtractor) extract data required for the project
 from local BabelNet indices using the provided Java API. It is written in Scala.
 
-The single purpose of this tool is to query the BabelNet Java API with lexical units found in FrameNet-BR (just the English nouns at the moment) and stored returned candidate synsents (their ids, definitions, edges) in files. It may be extended with additional languages and parts of speech.
+The single purpose of this tool is to query the BabelNet Java API with lexical units found in FrameNet-BR (just the English nouns at the moment) and store returned candidate synsents (their ids, definitions, edges) in files. It may be extended with additional languages and parts of speech.
 
 #### FrameNet Sense Mapper
 
