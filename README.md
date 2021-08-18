@@ -1,9 +1,12 @@
 # GSoC 2021 Qualia Project
 ## Qualia Relation Extraction and Annotation Tools
-
 The goal of this project was to  develop a set of tools allowing enrichment of FrameNet-BR DB with qualia relations by means of transforming data from existing data sources, such as BabelNet, VerbNet, ConceptNet. I chose to focus on BabelNet specifically due to its multilinguality and (relatively) approachable API.
 
 ### Components
+To reach the stated objective I created three self-contained tools:
+- BabelNet Extractor
+- FrameNet Sense Mapper
+- Qualia Annotation UI Prototype
 
 #### BabelNet Extractor
 The first component of this project is a [tool](https://github.com/slowwavesleep/BabelNetExtractor) to extract data required for the project
