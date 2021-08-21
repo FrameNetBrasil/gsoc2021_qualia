@@ -26,7 +26,7 @@ The project encompasses a multi-component solution for automatic extraction of r
 
 - Extract data from BabelNet
 - Juxtapose extracted data with FN-Br LUs and generate relation candidates
-- Manually review generated candidates (some noise is to be expected)
+- Manually review generated candidates (since some noise is to be expected)
 
 Approved candidates can be subsequently integrated into FN-Br, although this integration is not a part of the project.
 
