@@ -38,13 +38,13 @@ Each step in the pipeline depends only on the data generated during a correspond
 - Qualia Annotation UI Prototype
 
 #### BabelNet Extractor
-The first component of this project is a Scala [tool](https://github.com/slowwavesleep/BabelNetExtractor) to extract data required for the project
+The first component of this project is a Scala [tool](https://github.com/slowwavesleep/BabelNetExtractor) to extract data required for the pipeline
 from local BabelNet indices using the provided Java API.
 
 The single purpose of this tool is to query the BabelNet Java API with lexical units found in FrameNet-BR (just the English nouns at the moment) and store returned candidate synsents (their ids, definitions, edges) in files. It may be extended with additional languages and parts of speech in the future.
 
 #### FrameNet Sense Mapper
-[The second component](https://github.com/slowwavesleep/FnSenseMapper) is responsible for matching lexical units with the most relevant candidate synsent using cosine similarity between FrameNet and BabelNet definitions. Embeddings from the LaBSE model were used (although that's easy enough to change) to calculate the distance.
+[The second component](https://github.com/slowwavesleep/FnSenseMapper) is responsible for matching lexical units with the most relevant candidate synsents using cosine similarity between FrameNet and BabelNet definitions. Embeddings from the LaBSE model were used (although that's easy enough to change) to calculate the distance.
 
 Candidate synsets are ranked according to their sentence similarity to their respective FrameNet definitions, synsets with similarity lower than 0.3 are filtered out, as well as candidates with names that, when compared to a correspodning lexical unit name, have FuzzyWuzzy partial ratio below 90. Top 3 (assuming that there are as many after filtering) synset candidates are returned for each lexical unit. The specific values were selected empirically and are modifiable.
 
