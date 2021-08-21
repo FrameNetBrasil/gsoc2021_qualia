@@ -2,6 +2,7 @@
 ## Qualia Relation Extraction and Annotation Tools
 
 ### Introduction
+
 #### Context
 FN-Br has been implementing qualia relations in its database. These relations derive from the idea of qualia structure, proposed by Pustejovsky (1995) in the Generative Lexicon (GL) theory. Basically, GL assumes that the meaning of words is structured on four generative factors, called qualia roles. Each role captures how humans understand objects and the relationships between these objects in the world, trying to provide some explanation for the linguistic behavior of lexical items. Pustejovsky (1995, p. 85) defines four qualia roles:
 
@@ -19,30 +20,33 @@ FN-Br currently has more than 25000 qualia relations for LUs in English and Braz
 
 
 #### Project Description
+The initial idea of this project was to develop a pipeline that takes advantage of databases available on the Internet (lexical resources, semantic networks, ontologies, etc.) to automatically create new qualia relations. Examples of resources that provide semantic relations between lexical items, such as VerbNet, ConceptNet, BabelNet, Framester, among others. These resources, however, are quite distinct in nature, so it was necessary to limit the project to just one database, thus BabelNet was chosen to due to its multilinguality and (relatively) approachable API.
 
-The idea of this project is to develop a pipeline that takes advantage of databases available on the Internet (lexical resources, semantic networks, ontologies, etc.) to automatically create new qualia relations. Examples of resources that provide semantic relations between lexical items, such as VerbNet, ConceptNet, BabelNet, Framester, among others. These resources, however, 
+The project encompasses a multi-component solution for automatic extraction of relations interpretable as qualia relations from BabelNet and semi-automatic mapping of said relations to lexical units in FN-Br. Accordingly, the projected pipeline consists of these three steps:
 
+- Extract data from BabelNet
+- Juxtapose extracted data with FN-Br LUs and generate relation candidates
+- Manually review generated candidates (some noise is to be expected)
 
-A successful project should implement a (human in the loop) solution for (semi-) automatically extracting qualia relations between words in existing databases and incorporating them to FN-Br.
-The goal of this project was to  develop a set of tools allowing enrichment of FrameNet-BR DB with qualia relations by means of transforming data from existing data sources, such as BabelNet, VerbNet, ConceptNet. I chose to focus on BabelNet specifically due to its multilinguality and (relatively) approachable API.
+Approved candidates can be subsequently integrated into FN-Br, although this integration is not a part of the project.
 
 
 ### Components
-To reach the stated objective three self-contained tools were created:
+Each step in the pipeline depends only on the data generated during a corresponding preceding step, thus it is sensible to decouple them into individual self-contained components. These components include:
 - BabelNet Extractor
 - FrameNet Sense Mapper
 - Qualia Annotation UI Prototype
 
 #### BabelNet Extractor
-The first component of this project is a [tool](https://github.com/slowwavesleep/BabelNetExtractor) to extract data required for the project
-from local BabelNet indices using the provided Java API. It is written in Scala.
+The first component of this project is a Scala [tool](https://github.com/slowwavesleep/BabelNetExtractor) to extract data required for the project
+from local BabelNet indices using the provided Java API.
 
-The single purpose of this tool is to query the BabelNet Java API with lexical units found in FrameNet-BR (just the English nouns at the moment) and store returned candidate synsents (their ids, definitions, edges) in files. It may be extended with additional languages and parts of speech.
+The single purpose of this tool is to query the BabelNet Java API with lexical units found in FrameNet-BR (just the English nouns at the moment) and store returned candidate synsents (their ids, definitions, edges) in files. It may be extended with additional languages and parts of speech in the future.
 
 #### FrameNet Sense Mapper
-[The second component](https://github.com/slowwavesleep/FnSenseMapper) is responsible for matching lexical units with the most relevant candidate synsent using cosine similarity between FrameNet and BabelNet definitions. Embeddings from the LaBSE model were used (although that's easy enough to change).
+[The second component](https://github.com/slowwavesleep/FnSenseMapper) is responsible for matching lexical units with the most relevant candidate synsent using cosine similarity between FrameNet and BabelNet definitions. Embeddings from the LaBSE model were used (although that's easy enough to change) to calculate the distance.
 
-Candidate synsets are ranked according to their sentence similarity to the corresponding FrameNet definitions, synsets with similarity lower than 0.3 are filtered out, as well as candidates with names that, when compared to a correspodning lexical unit name, have FuzzyWuzzy partial ratio below 90. Top 3 (assuming that there are as many after filtering) synset candidates are returned for each lexical unit. The specific values were selected empirically and are modifiable.
+Candidate synsets are ranked according to their sentence similarity to their respective FrameNet definitions, synsets with similarity lower than 0.3 are filtered out, as well as candidates with names that, when compared to a correspodning lexical unit name, have FuzzyWuzzy partial ratio below 90. Top 3 (assuming that there are as many after filtering) synset candidates are returned for each lexical unit. The specific values were selected empirically and are modifiable.
 
 #### Qualia Annotation UI Prototype
-The purpose [the third component](https://github.com/slowwavesleep/QualiaAnnotationUI) is to facilitate human annotation of data produced by the previous component. It allows a user to go through relation candidates and mark them as acceptable/not acceptable. This is essentially a single-user local app. The data is persisted locally. More work is needed to use it as a fully-fledged web app that is integrated into existing infrastructure.
+The purpose [the third component](https://github.com/slowwavesleep/QualiaAnnotationUI) is to facilitate human annotation of data produced by the previous component. It allows a user to go through relation candidates and mark them as acceptable/not acceptable. This is essentially a single-user local app since the data is persisted locally only. More work is needed to use it as a fully-fledged web app that is integrated into existing infrastructure. However, it can be still by several indepent annotators to review the extracted relations.
