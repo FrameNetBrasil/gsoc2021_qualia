@@ -1,7 +1,7 @@
 # GSoC 2021 Qualia Project
 ## Qualia Relation Extraction and Annotation Tools
 
-This is the main reposity for the **FrameNet Brasil (FB-Br) Qualia Project at Google Summer of Code 2021**. In short, the project deals with the enrichment of the existing lexical database with relations extracted from external knowledge sources. This is a stand-alone project, which means that it's not intended to integrate with an existing system as is. The code itself is separated into several independent repositories (see below for links and more information). 
+This is the main reposity for the **FrameNet Brasil (FB-Br) Qualia Project at Google Summer of Code 2021**. In short, the project deals with the enrichment of the existing lexical database with relations extracted from external knowledge sources. This is a stand-alone project, which means that it's not intended to integrate with an existing system as is. The code itself is separated into several independent repositories according to its function (see below for links and more information). 
 
 ### Introduction
 
